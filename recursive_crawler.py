@@ -28,7 +28,8 @@ from selenium.common.exceptions import (
 
 # ====== CONFIG ======
 # ROOT_URL = "https://www.myqnapcloud.com/share/76f5f806np2m2676sux5w18d_03d5e4592k982o5p105380x60465g2g4"
-ROOT_URL = "https://www.myqnapcloud.com/share/76f5f806np2m2676sux5w18d_3ghe57k56j61205tr9uy4999zcf85197#!/home/%D0%A2%D1%80%D0%BE%D1%81%D1%8B/%D0%A2%D1%80%D0%BE%D1%81%D0%B8%20%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BBi%D0%BD%D0%BD%D1%8F/%D0%84%D0%90%D0%90%D0%A2%20112-030-01500-010"
+# ROOT_URL = "https://www.myqnapcloud.com/share/76f5f806np2m2676sux5w18d_3ghe57k56j61205tr9uy4999zcf85197#!/home/%D0%A2%D1%80%D0%BE%D1%81%D1%8B/%D0%A2%D1%80%D0%BE%D1%81%D0%B8%20%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BBi%D0%BD%D0%BD%D1%8F/%D0%84%D0%90%D0%90%D0%A2%20112-030-01500-010"
+ROOT_URL = "https://www.myqnapcloud.com/share/76f5f806np2m2676sux5w18d_3ghe57k56j61205tr9uy4999zcf85197#!/home/%D0%A2%D1%80%D0%BE%D1%81%D1%8B/%D0%A2%D1%80%D0%BE%D1%81%D0%B8%20%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BBi%D0%BD%D0%BD%D1%8F"
 HEADLESS = True
 LOAD_TIMEOUT = 20
 URL_CHANGE_TIMEOUT = 10
@@ -443,7 +444,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Recursive QNAP image crawler (folders + image preview srcs)")
     parser.add_argument("--url", default=ROOT_URL, help="Root URL to crawl")
     parser.add_argument("--depth", type=int, default=None, help="Max depth (None = full)")
-    parser.add_argument("--out", default="structure.json", help="Output JSON path")
+    parser.add_argument("--out", default=f"structure-{time.time()}.json", help="Output JSON path")
     args = parser.parse_args()
 
     tree = run(args.url, max_depth=args.depth)

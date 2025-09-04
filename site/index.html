@@ -1,0 +1,420 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Brand Image Browser</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <!-- Bootstrap -->
+  <link
+    href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+    rel="stylesheet"
+    integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
+    crossorigin="anonymous"
+  />
+  <style>
+    body { background:#0b0d12; color:#e6e6e6; }
+    body * {color:#e6e6e6;}
+    .navbar { background: #121521; }
+    .form-control, .form-select { background:#11131b; color:#e6e6e6; border-color:#2b2f3c; }
+    .form-control::placeholder { color:#8b90a1; }
+    .card { background:#11131b; border:1px solid #2b2f3c; }
+    .badge { background:#1a1f2d; border:1px solid #2b2f3c; }
+    .thumb {
+      width: 100%;
+      aspect-ratio: 4 / 3;
+      object-fit: cover;
+      background: #0b0d12;
+      border: 1px solid #23283a;
+      border-radius: .5rem;
+    }
+    .muted { color:#a7adbf; }
+    .grid { display:grid; gap:1rem; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); }
+    .pointer { cursor: pointer; }
+    .hover-outline:hover { outline:2px solid #3d6df2; }
+    .table-dark tbody tr:hover { background:#171a27; }
+    .small-mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; font-size: .8rem; }
+    .badge {max-width: 100%; overflow: hidden;}
+    .text-muted.small {color: white !important;}
+    td{ max-width: 200px;overflow: hidden;}
+  </style>
+</head>
+<body>
+
+<nav class="navbar navbar-dark mb-4">
+  <div class="container">
+    <span class="navbar-brand">
+      📂 Brand Image Browser
+      <span class="badge rounded-pill ms-2" id="statusBadge">loading…</span>
+    </span>
+    <div class="d-flex gap-2">
+      <button id="viewCardsBtn" class="btn btn-outline-light btn-sm active">Cards</button>
+      <button id="viewTableBtn" class="btn btn-outline-light btn-sm">Table</button>
+    </div>
+  </div>
+</nav>
+
+<div class="container">
+
+  <!-- Controls -->
+  <div class="row g-2 align-items-end mb-3">
+    <div class="col-12 col-md-5">
+      <label class="form-label">Search</label>
+      <input id="searchInput" type="text" class="form-control" placeholder="brand, file name, folder…" />
+    </div>
+    <div class="col-6 col-md-3">
+      <label class="form-label">Brand</label>
+      <select id="brandSelect" class="form-select">
+        <option value="">All brands</option>
+      </select>
+    </div>
+    <div class="col-6 col-md-2">
+      <label class="form-label">Has preview</label>
+      <select id="previewSelect" class="form-select">
+        <option value="">Any</option>
+        <option value="yes">Yes</option>
+        <option value="no">No</option>
+      </select>
+    </div>
+    <div class="col-12 col-md-2 text-md-end">
+      <button id="resetBtn" class="btn btn-secondary w-100">Reset</button>
+    </div>
+  <div class="col-12 col-md-4">
+    <label class="form-label">Load JSONs from folder</label>
+    <input id="dirPicker" type="file" webkitdirectory directory multiple class="form-control" />
+    <div class="form-text text-white">Pick the <code>out/json</code> folder.</div>
+    </div>
+  </div>
+
+  <!-- Cards view -->
+  <div id="cardsView" class="grid"></div>
+
+  <!-- Table view -->
+  <div id="tableView" class="table-responsive" style="display:none;">
+    <table class="table table-dark table-hover align-middle">
+      <thead>
+        <tr>
+          <th style="width:120px;">Preview</th>
+          <th>File</th>
+          <th>Folder</th>
+          <th>Brand</th>
+          <th>Source</th>
+        </tr>
+      </thead>
+      <tbody id="tableBody"></tbody>
+    </table>
+  </div>
+
+  <div id="emptyState" class="text-center text-muted my-5" style="display:none;">
+    nothing found
+  </div>
+</div>
+
+<script>
+/* ==============================
+   CONFIG / DISCOVERY OF JSONS
+   ==============================
+
+  Option A (recommended): create ../out/json/manifest.json with:
+     ["Aber.json","AirNeo_ПНЕВМАТИКА.json","Amber_Line.json"]
+
+  Option B: edit JSON_FILES below manually.
+*/
+const JSON_BASE = "../out/json/";
+const CANDIDATE_MANIFESTS = ["manifest.json", "index.json"];
+let JSON_FILES = []; // if no manifest is found, put filenames here like ["Aber.json"]
+
+/* ==============================
+   STATE
+============================== */
+const state = {
+  items: [],    // aggregated image rows
+  view: 'cards' // or 'table'
+};
+
+// helpers
+const el = (sel) => document.querySelector(sel);
+const statusBadge = el('#statusBadge');
+const searchInput = el('#searchInput');
+const brandSelect = el('#brandSelect');
+const previewSelect = el('#previewSelect');
+const resetBtn = el('#resetBtn');
+const cardsView = el('#cardsView');
+const tableView = el('#tableView');
+const tableBody = el('#tableBody');
+const viewCardsBtn = el('#viewCardsBtn');
+const viewTableBtn = el('#viewTableBtn');
+const emptyState = el('#emptyState');
+
+/* Build a link to folder path inside original SPA.
+   Our JSON contains meta.root_url and file row's path like "/home/Aber/AL00038".
+   We want: rootUrl + "#!" + encodeEachSegment(path)
+*/
+function buildFolderUrl(rootUrl, path) {
+  if (!rootUrl) return null;
+  const hasBang = rootUrl.includes('#!');
+  const encoded = path.split('/').map(seg => encodeURIComponent(seg)).join('/');
+  if (hasBang) {
+    return rootUrl.replace(/#!.*$/, '') + '#!' + encoded;
+  }
+  return rootUrl.replace(/#.*$/, '') + '#!' + encoded;
+}
+
+/* Load manifest.json or index.json if present */
+async function loadManifest() {
+  for (const f of CANDIDATE_MANIFESTS) {
+    try {
+      const res = await fetch(JSON_BASE + f);
+      if (res.ok) {
+        const arr = await res.json();
+        if (Array.isArray(arr) && arr.length) {
+          return arr;
+        }
+      }
+    } catch (e) { /* ignore */ }
+  }
+  // fallback to hardcoded list
+  return JSON_FILES;
+}
+
+/* Load single JSON file and transform to rows:
+   each row => { brand, fileName, previewSrc, folderDisplay, folderEncoded, path, sourceUrl }
+*/
+function rowsFromJson(payload) {
+  const meta = payload?.meta || {};
+  const flat = payload?.flat || [];
+  const brand = meta.brand || '(unknown)';
+  const rootUrl = meta.root_url || null;
+
+  const rows = [];
+  for (const r of flat) {
+    if (r.type !== 'file') continue; // folders are not shown here, we only preview images
+    const fileName = r.name || '';
+    const previewSrc = r.preview_src || '';
+    const folderDisplay = r.parent_folder_display_name || '';
+    const folderEncoded = r.parent_folder_encoded_name || '';
+    const path = r.path || '';
+
+    // keep only those with preview (you asked for image previews specifically)
+    rows.push({
+      brand,
+      fileName,
+      previewSrc,
+      folderDisplay,
+      folderEncoded,
+      path,
+      sourceUrl: buildFolderUrl(rootUrl, path),
+      rootUrl
+    });
+  }
+  return rows;
+}
+
+/* Renderers */
+function renderCards(rows) {
+  if (!rows.length) {
+    cardsView.innerHTML = '';
+    cardsView.style.display = '';
+    tableView.style.display = 'none';
+    emptyState.style.display = '';
+    return;
+  }
+  emptyState.style.display = 'none';
+  const chunks = rows.map(r => `
+    <div class="card p-3 hover-outline">
+      <img class="thumb mb-3" src="${r.previewSrc}" alt="${escapeHtml(r.fileName)}" loading="lazy" />
+      <div class="d-flex flex-wrap gap-1 mb-2">
+        <span class="badge">${escapeHtml(r.brand)}</span>
+        ${r.folderDisplay ? `<span class="badge">${escapeHtml(r.folderDisplay)}</span>` : ''}
+      </div>
+      <div class="small-mono text-truncate" title="${escapeHtml(r.fileName)}">${escapeHtml(r.fileName)}</div>
+      <div class="mt-2 d-flex gap-2">
+        <a class="btn btn-sm btn-primary" href="${r.previewSrc}" target="_blank" rel="noopener">Open image</a>
+        ${r.sourceUrl ? `<a class="btn btn-sm btn-outline-light" href="${r.sourceUrl}" target="_blank" rel="noopener">Open source</a>` : ''}
+      </div>
+    </div>
+  `);
+  cardsView.innerHTML = chunks.join('');
+  cardsView.style.display = '';
+  tableView.style.display = 'none';
+}
+
+function renderTable(rows) {
+  if (!rows.length) {
+    tableBody.innerHTML = '';
+    tableView.style.display = '';
+    cardsView.style.display = 'none';
+    emptyState.style.display = '';
+    return;
+  }
+  emptyState.style.display = 'none';
+  tableBody.innerHTML = rows.map(r => `
+    <tr>
+      <td style="width:120px">
+        <a href="${r.previewSrc}" target="_blank" rel="noopener">
+          <img src="${r.previewSrc}" alt="${escapeHtml(r.fileName)}" style="width:110px; height:auto; border-radius:.25rem; border:1px solid #2b2f3c" loading="lazy" />
+        </a>
+      </td>
+      <td>
+        <div class="fw-semibold small-mono">${escapeHtml(r.fileName)}</div>
+        <div class="text-muted small">${escapeHtml(r.path)}</div>
+      </td>
+      <td>${escapeHtml(r.folderDisplay || '')}</td>
+      <td>${escapeHtml(r.brand)}</td>
+      <td>
+        ${r.sourceUrl ? `<a class="btn btn-sm btn-outline-light" href="${r.sourceUrl}" target="_blank" rel="noopener">Open source</a>` : '<span class="text-muted">—</span>'}
+      </td>
+    </tr>
+  `).join('');
+  tableView.style.display = '';
+  cardsView.style.display = 'none';
+}
+
+/* Filtering */
+function uniqueBrands(rows) {
+  return Array.from(new Set(rows.map(r => r.brand))).sort((a,b)=>a.localeCompare(b));
+}
+
+function applyFilters() {
+  const q = searchInput.value.trim().toLowerCase();
+  const brand = brandSelect.value;
+  const needPreview = previewSelect.value; // "", "yes", "no"
+
+  let rows = state.items.slice();
+
+  if (brand) {
+    rows = rows.filter(r => r.brand === brand);
+  }
+  if (q) {
+    rows = rows.filter(r =>
+      (r.fileName && r.fileName.toLowerCase().includes(q)) ||
+      (r.folderDisplay && r.folderDisplay.toLowerCase().includes(q)) ||
+      (r.brand && r.brand.toLowerCase().includes(q)) ||
+      (r.path && r.path.toLowerCase().includes(q))
+    );
+  }
+  if (needPreview === 'yes') {
+    rows = rows.filter(r => !!r.previewSrc);
+  } else if (needPreview === 'no') {
+    rows = rows.filter(r => !r.previewSrc);
+  }
+
+  if (state.view === 'cards') renderCards(rows);
+  else renderTable(rows);
+
+  statusBadge.textContent = `${rows.length} shown`;
+}
+
+function populateBrandFilter(rows) {
+  const brands = uniqueBrands(rows);
+  brandSelect.innerHTML = `<option value="">All brands</option>` +
+    brands.map(b => `<option value="${escapeHtml(b)}">${escapeHtml(b)}</option>`).join('');
+}
+
+function escapeHtml(s) {
+  return (s ?? '').toString()
+    .replaceAll('&','&amp;')
+    .replaceAll('<','&lt;')
+    .replaceAll('>','&gt;')
+    .replaceAll('"','&quot;')
+    .replaceAll("'","&#039;");
+}
+
+/* View toggle */
+viewCardsBtn.addEventListener('click', () => {
+  state.view = 'cards';
+  viewCardsBtn.classList.add('active');
+  viewTableBtn.classList.remove('active');
+  applyFilters();
+});
+viewTableBtn.addEventListener('click', () => {
+  state.view = 'table';
+  viewCardsBtn.classList.remove('active');
+  viewTableBtn.classList.add('active');
+  applyFilters();
+});
+
+/* Controls */
+searchInput.addEventListener('input', debounce(applyFilters, 120));
+brandSelect.addEventListener('change', applyFilters);
+previewSelect.addEventListener('change', applyFilters);
+resetBtn.addEventListener('click', () => {
+  searchInput.value = '';
+  brandSelect.value = '';
+  previewSelect.value = '';
+  applyFilters();
+});
+
+function debounce(fn, ms) {
+  let t;
+  return (...args) => {
+    clearTimeout(t);
+    t = setTimeout(() => fn.apply(null, args), ms);
+  };
+}
+
+/* Boot */
+(async function boot() {
+  statusBadge.textContent = 'loading…';
+  const manifest = await loadManifest();
+  const files = (manifest || []).map(x => x.trim()).filter(Boolean);
+
+  if (!files.length) {
+    statusBadge.textContent = 'no manifest; edit JSON_FILES in page';
+    if (!JSON_FILES.length) return;
+  }
+
+  const toLoad = files.length ? files : JSON_FILES;
+  const allRows = [];
+
+  for (const fname of toLoad) {
+    try {
+      const res = await fetch(JSON_BASE + fname);
+      if (!res.ok) throw new Error(res.status + ' ' + res.statusText);
+      const payload = await res.json();
+      const rows = rowsFromJson(payload);
+      allRows.push(...rows);
+      statusBadge.textContent = `loaded: ${fname} (${rows.length})`;
+    } catch (e) {
+      console.error('failed to load', fname, e);
+    }
+  }
+
+  state.items = allRows;
+  populateBrandFilter(allRows);
+  applyFilters();
+  statusBadge.textContent = `${allRows.length} images loaded`;
+  
+})();
+</script>
+<script>
+const dirPicker = document.querySelector('#dirPicker');
+
+dirPicker?.addEventListener('change', async (e) => {
+  const files = Array.from(e.target.files || []);
+  // Keep only *.json (ignore folders)
+  const jsonFiles = files.filter(f => f.name.toLowerCase().endsWith('.json'));
+
+  if (!jsonFiles.length) return;
+
+  // Read all files via FileReader (no fetch, no CORS)
+  const allRows = [];
+  for (const file of jsonFiles) {
+    try {
+      const text = await file.text();
+      const payload = JSON.parse(text);
+      const rows = rowsFromJson(payload);   // reuse your existing helper
+      allRows.push(...rows);
+    } catch (err) {
+      console.error('Failed to read', file.name, err);
+    }
+  }
+
+  state.items = allRows;
+  populateBrandFilter(allRows);
+  applyFilters();
+  statusBadge.textContent = `${allRows.length} images loaded (picker)`;
+});
+</script>
+
+</body>
+</html>
