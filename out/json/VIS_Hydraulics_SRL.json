@@ -1,0 +1,250 @@
+{
+  "meta": {
+    "generated_at": "2025-09-05T09:15:01.757209Z",
+    "brand": "VIS Hydraulics SRL",
+    "root_url": "https://www.myqnapcloud.com/smartshare/76f5f806np2m2676sux5w18d_208hgi2l7oln20p81wux880x52908g33",
+    "max_depth": null,
+    "image_extensions": [
+      ".png",
+      ".jpg",
+      ".jpeg"
+    ],
+    "generated_at_local": "2025-09-05T11:15:01"
+  },
+  "tree": {
+    "path": "/home",
+    "folder_display_name": "home",
+    "folder_encoded_name": "home",
+    "files": [],
+    "folders": [
+      {
+        "path": "/home/VIS%20Hydraulics",
+        "folder_display_name": "VIS Hydraulics",
+        "folder_encoded_name": "VIS%20Hydraulics",
+        "files": [],
+        "folders": [
+          {
+            "path": "/home/VIS%20Hydraulics/RVQ",
+            "folder_display_name": "RVQ",
+            "folder_encoded_name": "RVQ",
+            "files": [],
+            "folders": [
+              {
+                "path": "/home/VIS%20Hydraulics/RVQ/RVQ0.S10.0Y.000",
+                "folder_display_name": "RVQ0.S10.0Y.000",
+                "folder_encoded_name": "RVQ0.S10.0Y.000",
+                "files": [
+                  {
+                    "name": "RVQ0.S10.0Y.000 (1).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=630ecd0e3fbc41b79fce212a51774d76&access_token=2.LClAk99RdM5TUVjOE4zY3n7m8rkLrYdpTmbDOvMR.1757668423&fid=630ecd0e3fbc41b79fce212a51774d76&path=%2FRVQ%2FRVQ0.S10.0Y.000&size=640&name=RVQ0.S10.0Y.000%20%281%29.jpg&cacheSlayer=165000.58221034252"
+                  },
+                  {
+                    "name": "RVQ0.S10.0Y.000 (2).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=630ecd0e3fbc41b79fce212a51774d76&access_token=2.LClAk99RdM5TUVjOE4zY3n7m8rkLrYdpTmbDOvMR.1757668423&fid=630ecd0e3fbc41b79fce212a51774d76&path=%2FRVQ%2FRVQ0.S10.0Y.000&size=640&name=RVQ0.S10.0Y.000%20%282%29.jpg&cacheSlayer=919039.6091131252"
+                  },
+                  {
+                    "name": "RVQ0.S10.0Y.000 (3).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=630ecd0e3fbc41b79fce212a51774d76&access_token=2.LClAk99RdM5TUVjOE4zY3n7m8rkLrYdpTmbDOvMR.1757668423&fid=630ecd0e3fbc41b79fce212a51774d76&path=%2FRVQ%2FRVQ0.S10.0Y.000&size=640&name=RVQ0.S10.0Y.000%20%283%29.jpg&cacheSlayer=305973.5964916255"
+                  }
+                ],
+                "folders": []
+              }
+            ]
+          },
+          {
+            "path": "/home/VIS%20Hydraulics/SVD",
+            "folder_display_name": "SVD",
+            "folder_encoded_name": "SVD",
+            "files": [],
+            "folders": [
+              {
+                "path": "/home/VIS%20Hydraulics/SVD/SVD0.M18.00.F00",
+                "folder_display_name": "SVD0.M18.00.F00",
+                "folder_encoded_name": "SVD0.M18.00.F00",
+                "files": [
+                  {
+                    "name": "SVD0.M18.00.F00 _1.jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=630ecd0e3fbc41b79fce212a51774d76&access_token=2.LClAk99RdM5TUVjOE4zY3n7m8rkLrYdpTmbDOvMR.1757668423&fid=630ecd0e3fbc41b79fce212a51774d76&path=%2FSVD%2FSVD0.M18.00.F00&size=640&name=SVD0.M18.00.F00%20_1.jpg&cacheSlayer=358637.45159733493"
+                  },
+                  {
+                    "name": "SVD0.M18.00.F00 _2.jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=630ecd0e3fbc41b79fce212a51774d76&access_token=2.LClAk99RdM5TUVjOE4zY3n7m8rkLrYdpTmbDOvMR.1757668423&fid=630ecd0e3fbc41b79fce212a51774d76&path=%2FSVD%2FSVD0.M18.00.F00&size=640&name=SVD0.M18.00.F00%20_2.jpg&cacheSlayer=306120.9152330843"
+                  }
+                ],
+                "folders": []
+              },
+              {
+                "path": "/home/VIS%20Hydraulics/SVD/SVD0.M20.00.F00",
+                "folder_display_name": "SVD0.M20.00.F00",
+                "folder_encoded_name": "SVD0.M20.00.F00",
+                "files": [
+                  {
+                    "name": "SVD0.M20.00.F00 (1).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=630ecd0e3fbc41b79fce212a51774d76&access_token=2.LClAk99RdM5TUVjOE4zY3n7m8rkLrYdpTmbDOvMR.1757668423&fid=630ecd0e3fbc41b79fce212a51774d76&path=%2FSVD%2FSVD0.M20.00.F00&size=640&name=SVD0.M20.00.F00%20%281%29.jpg&cacheSlayer=722481.6891373164"
+                  },
+                  {
+                    "name": "SVD0.M20.00.F00 (2).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=630ecd0e3fbc41b79fce212a51774d76&access_token=2.LClAk99RdM5TUVjOE4zY3n7m8rkLrYdpTmbDOvMR.1757668423&fid=630ecd0e3fbc41b79fce212a51774d76&path=%2FSVD%2FSVD0.M20.00.F00&size=640&name=SVD0.M20.00.F00%20%282%29.jpg&cacheSlayer=584773.4674365647"
+                  }
+                ],
+                "folders": []
+              }
+            ]
+          },
+          {
+            "path": "/home/VIS%20Hydraulics/SVS",
+            "folder_display_name": "SVS",
+            "folder_encoded_name": "SVS",
+            "files": [],
+            "folders": [
+              {
+                "path": "/home/VIS%20Hydraulics/SVS/SVS0.M18.00.F00",
+                "folder_display_name": "SVS0.M18.00.F00",
+                "folder_encoded_name": "SVS0.M18.00.F00",
+                "files": [
+                  {
+                    "name": "SVS0.M18.00.F00 _1.jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=630ecd0e3fbc41b79fce212a51774d76&access_token=2.LClAk99RdM5TUVjOE4zY3n7m8rkLrYdpTmbDOvMR.1757668423&fid=630ecd0e3fbc41b79fce212a51774d76&path=%2FSVS%2FSVS0.M18.00.F00&size=640&name=SVS0.M18.00.F00%20_1.jpg&cacheSlayer=756194.224964693"
+                  },
+                  {
+                    "name": "SVS0.M18.00.F00 _2.jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=630ecd0e3fbc41b79fce212a51774d76&access_token=2.LClAk99RdM5TUVjOE4zY3n7m8rkLrYdpTmbDOvMR.1757668423&fid=630ecd0e3fbc41b79fce212a51774d76&path=%2FSVS%2FSVS0.M18.00.F00&size=640&name=SVS0.M18.00.F00%20_2.jpg&cacheSlayer=25576.629985818"
+                  }
+                ],
+                "folders": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "flat": [
+    {
+      "type": "folder",
+      "path": "/home",
+      "folder_display_name": "home",
+      "folder_encoded_name": "home"
+    },
+    {
+      "type": "folder",
+      "path": "/home/VIS%20Hydraulics",
+      "folder_display_name": "VIS Hydraulics",
+      "folder_encoded_name": "VIS%20Hydraulics"
+    },
+    {
+      "type": "folder",
+      "path": "/home/VIS%20Hydraulics/RVQ",
+      "folder_display_name": "RVQ",
+      "folder_encoded_name": "RVQ"
+    },
+    {
+      "type": "folder",
+      "path": "/home/VIS%20Hydraulics/RVQ/RVQ0.S10.0Y.000",
+      "folder_display_name": "RVQ0.S10.0Y.000",
+      "folder_encoded_name": "RVQ0.S10.0Y.000"
+    },
+    {
+      "type": "file",
+      "path": "/home/VIS%20Hydraulics/RVQ/RVQ0.S10.0Y.000",
+      "name": "RVQ0.S10.0Y.000 (1).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=630ecd0e3fbc41b79fce212a51774d76&access_token=2.LClAk99RdM5TUVjOE4zY3n7m8rkLrYdpTmbDOvMR.1757668423&fid=630ecd0e3fbc41b79fce212a51774d76&path=%2FRVQ%2FRVQ0.S10.0Y.000&size=640&name=RVQ0.S10.0Y.000%20%281%29.jpg&cacheSlayer=165000.58221034252",
+      "parent_folder_display_name": "RVQ0.S10.0Y.000",
+      "parent_folder_encoded_name": "RVQ0.S10.0Y.000"
+    },
+    {
+      "type": "file",
+      "path": "/home/VIS%20Hydraulics/RVQ/RVQ0.S10.0Y.000",
+      "name": "RVQ0.S10.0Y.000 (2).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=630ecd0e3fbc41b79fce212a51774d76&access_token=2.LClAk99RdM5TUVjOE4zY3n7m8rkLrYdpTmbDOvMR.1757668423&fid=630ecd0e3fbc41b79fce212a51774d76&path=%2FRVQ%2FRVQ0.S10.0Y.000&size=640&name=RVQ0.S10.0Y.000%20%282%29.jpg&cacheSlayer=919039.6091131252",
+      "parent_folder_display_name": "RVQ0.S10.0Y.000",
+      "parent_folder_encoded_name": "RVQ0.S10.0Y.000"
+    },
+    {
+      "type": "file",
+      "path": "/home/VIS%20Hydraulics/RVQ/RVQ0.S10.0Y.000",
+      "name": "RVQ0.S10.0Y.000 (3).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=630ecd0e3fbc41b79fce212a51774d76&access_token=2.LClAk99RdM5TUVjOE4zY3n7m8rkLrYdpTmbDOvMR.1757668423&fid=630ecd0e3fbc41b79fce212a51774d76&path=%2FRVQ%2FRVQ0.S10.0Y.000&size=640&name=RVQ0.S10.0Y.000%20%283%29.jpg&cacheSlayer=305973.5964916255",
+      "parent_folder_display_name": "RVQ0.S10.0Y.000",
+      "parent_folder_encoded_name": "RVQ0.S10.0Y.000"
+    },
+    {
+      "type": "folder",
+      "path": "/home/VIS%20Hydraulics/SVD",
+      "folder_display_name": "SVD",
+      "folder_encoded_name": "SVD"
+    },
+    {
+      "type": "folder",
+      "path": "/home/VIS%20Hydraulics/SVD/SVD0.M18.00.F00",
+      "folder_display_name": "SVD0.M18.00.F00",
+      "folder_encoded_name": "SVD0.M18.00.F00"
+    },
+    {
+      "type": "file",
+      "path": "/home/VIS%20Hydraulics/SVD/SVD0.M18.00.F00",
+      "name": "SVD0.M18.00.F00 _1.jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=630ecd0e3fbc41b79fce212a51774d76&access_token=2.LClAk99RdM5TUVjOE4zY3n7m8rkLrYdpTmbDOvMR.1757668423&fid=630ecd0e3fbc41b79fce212a51774d76&path=%2FSVD%2FSVD0.M18.00.F00&size=640&name=SVD0.M18.00.F00%20_1.jpg&cacheSlayer=358637.45159733493",
+      "parent_folder_display_name": "SVD0.M18.00.F00",
+      "parent_folder_encoded_name": "SVD0.M18.00.F00"
+    },
+    {
+      "type": "file",
+      "path": "/home/VIS%20Hydraulics/SVD/SVD0.M18.00.F00",
+      "name": "SVD0.M18.00.F00 _2.jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=630ecd0e3fbc41b79fce212a51774d76&access_token=2.LClAk99RdM5TUVjOE4zY3n7m8rkLrYdpTmbDOvMR.1757668423&fid=630ecd0e3fbc41b79fce212a51774d76&path=%2FSVD%2FSVD0.M18.00.F00&size=640&name=SVD0.M18.00.F00%20_2.jpg&cacheSlayer=306120.9152330843",
+      "parent_folder_display_name": "SVD0.M18.00.F00",
+      "parent_folder_encoded_name": "SVD0.M18.00.F00"
+    },
+    {
+      "type": "folder",
+      "path": "/home/VIS%20Hydraulics/SVD/SVD0.M20.00.F00",
+      "folder_display_name": "SVD0.M20.00.F00",
+      "folder_encoded_name": "SVD0.M20.00.F00"
+    },
+    {
+      "type": "file",
+      "path": "/home/VIS%20Hydraulics/SVD/SVD0.M20.00.F00",
+      "name": "SVD0.M20.00.F00 (1).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=630ecd0e3fbc41b79fce212a51774d76&access_token=2.LClAk99RdM5TUVjOE4zY3n7m8rkLrYdpTmbDOvMR.1757668423&fid=630ecd0e3fbc41b79fce212a51774d76&path=%2FSVD%2FSVD0.M20.00.F00&size=640&name=SVD0.M20.00.F00%20%281%29.jpg&cacheSlayer=722481.6891373164",
+      "parent_folder_display_name": "SVD0.M20.00.F00",
+      "parent_folder_encoded_name": "SVD0.M20.00.F00"
+    },
+    {
+      "type": "file",
+      "path": "/home/VIS%20Hydraulics/SVD/SVD0.M20.00.F00",
+      "name": "SVD0.M20.00.F00 (2).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=630ecd0e3fbc41b79fce212a51774d76&access_token=2.LClAk99RdM5TUVjOE4zY3n7m8rkLrYdpTmbDOvMR.1757668423&fid=630ecd0e3fbc41b79fce212a51774d76&path=%2FSVD%2FSVD0.M20.00.F00&size=640&name=SVD0.M20.00.F00%20%282%29.jpg&cacheSlayer=584773.4674365647",
+      "parent_folder_display_name": "SVD0.M20.00.F00",
+      "parent_folder_encoded_name": "SVD0.M20.00.F00"
+    },
+    {
+      "type": "folder",
+      "path": "/home/VIS%20Hydraulics/SVS",
+      "folder_display_name": "SVS",
+      "folder_encoded_name": "SVS"
+    },
+    {
+      "type": "folder",
+      "path": "/home/VIS%20Hydraulics/SVS/SVS0.M18.00.F00",
+      "folder_display_name": "SVS0.M18.00.F00",
+      "folder_encoded_name": "SVS0.M18.00.F00"
+    },
+    {
+      "type": "file",
+      "path": "/home/VIS%20Hydraulics/SVS/SVS0.M18.00.F00",
+      "name": "SVS0.M18.00.F00 _1.jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=630ecd0e3fbc41b79fce212a51774d76&access_token=2.LClAk99RdM5TUVjOE4zY3n7m8rkLrYdpTmbDOvMR.1757668423&fid=630ecd0e3fbc41b79fce212a51774d76&path=%2FSVS%2FSVS0.M18.00.F00&size=640&name=SVS0.M18.00.F00%20_1.jpg&cacheSlayer=756194.224964693",
+      "parent_folder_display_name": "SVS0.M18.00.F00",
+      "parent_folder_encoded_name": "SVS0.M18.00.F00"
+    },
+    {
+      "type": "file",
+      "path": "/home/VIS%20Hydraulics/SVS/SVS0.M18.00.F00",
+      "name": "SVS0.M18.00.F00 _2.jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=630ecd0e3fbc41b79fce212a51774d76&access_token=2.LClAk99RdM5TUVjOE4zY3n7m8rkLrYdpTmbDOvMR.1757668423&fid=630ecd0e3fbc41b79fce212a51774d76&path=%2FSVS%2FSVS0.M18.00.F00&size=640&name=SVS0.M18.00.F00%20_2.jpg&cacheSlayer=25576.629985818",
+      "parent_folder_display_name": "SVS0.M18.00.F00",
+      "parent_folder_encoded_name": "SVS0.M18.00.F00"
+    }
+  ]
+}

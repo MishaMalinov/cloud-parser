@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "generated_at": "2025-09-05T09:56:03.351025Z",
+    "brand": "Webtec",
+    "root_url": "https://www.myqnapcloud.com/smartshare/76f5f806np2m2676sux5w18d_bc19672291m82996r4070w276z2609h8",
+    "max_depth": null,
+    "image_extensions": [
+      ".png",
+      ".jpg",
+      ".jpeg"
+    ],
+    "generated_at_local": "2025-09-05T11:56:03"
+  },
+  "tree": {
+    "path": "/home",
+    "folder_display_name": "home",
+    "folder_encoded_name": "home",
+    "files": [],
+    "folders": [
+      {
+        "path": "/home/Webtec",
+        "folder_display_name": "Webtec",
+        "folder_encoded_name": "Webtec",
+        "files": [
+          {
+            "name": "Витратомір FI750-180ABOT.JPG",
+            "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=bb30660956c14095b1624b486a0364d1&access_token=2.LClAk99RdM5TUVjOE4zY3n7m8rkLrYdpTmbDOvMR.1757668423&fid=bb30660956c14095b1624b486a0364d1&path=%2F&size=640&name=%D0%92%D0%B8%D1%82%D1%80%D0%B0%D1%82%D0%BE%D0%BC%D1%96%D1%80%20FI750-180ABOT.JPG&cacheSlayer=222825.151067647"
+          }
+        ],
+        "folders": []
+      }
+    ]
+  },
+  "flat": [
+    {
+      "type": "folder",
+      "path": "/home",
+      "folder_display_name": "home",
+      "folder_encoded_name": "home"
+    },
+    {
+      "type": "folder",
+      "path": "/home/Webtec",
+      "folder_display_name": "Webtec",
+      "folder_encoded_name": "Webtec"
+    },
+    {
+      "type": "file",
+      "path": "/home/Webtec",
+      "name": "Витратомір FI750-180ABOT.JPG",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=bb30660956c14095b1624b486a0364d1&access_token=2.LClAk99RdM5TUVjOE4zY3n7m8rkLrYdpTmbDOvMR.1757668423&fid=bb30660956c14095b1624b486a0364d1&path=%2F&size=640&name=%D0%92%D0%B8%D1%82%D1%80%D0%B0%D1%82%D0%BE%D0%BC%D1%96%D1%80%20FI750-180ABOT.JPG&cacheSlayer=222825.151067647",
+      "parent_folder_display_name": "Webtec",
+      "parent_folder_encoded_name": "Webtec"
+    }
+  ]
+}

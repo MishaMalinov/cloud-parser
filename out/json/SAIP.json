@@ -1,0 +1,380 @@
+{
+  "meta": {
+    "generated_at": "2025-09-05T08:27:11.944665Z",
+    "brand": "SAIP",
+    "root_url": "https://www.myqnapcloud.com/smartshare/76f5f806np2m2676sux5w18d_d64i0g1139462r8tr2289v832ac778f0",
+    "max_depth": null,
+    "image_extensions": [
+      ".png",
+      ".jpg",
+      ".jpeg"
+    ],
+    "generated_at_local": "2025-09-05T10:27:11"
+  },
+  "tree": {
+    "path": "/home",
+    "folder_display_name": "home",
+    "folder_encoded_name": "home",
+    "files": [],
+    "folders": [
+      {
+        "path": "/home/SAIP",
+        "folder_display_name": "SAIP",
+        "folder_encoded_name": "SAIP",
+        "files": [],
+        "folders": [
+          {
+            "path": "/home/SAIP/%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8",
+            "folder_display_name": "Акумулятори",
+            "folder_encoded_name": "%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8",
+            "files": [],
+            "folders": [
+              {
+                "path": "/home/SAIP/%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8/WA.2.0,05.1.O.G4.A.250",
+                "folder_display_name": "WA.2.0,05.1.O.G4.A.250",
+                "folder_encoded_name": "WA.2.0%2C05.1.O.G4.A.250",
+                "files": [
+                  {
+                    "name": "WA.2.0,05.1.O.G4.A (1).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=d96f0b9894894e8eb9833a042bc433b3&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=d96f0b9894894e8eb9833a042bc433b3&path=%2F%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8%2FWA.2.0%2C05.1.O.G4.A.250&size=640&name=WA.2.0%2C05.1.O.G4.A%20%281%29.jpg&cacheSlayer=532446.0915868215"
+                  },
+                  {
+                    "name": "WA.2.0,05.1.O.G4.A (2).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=d96f0b9894894e8eb9833a042bc433b3&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=d96f0b9894894e8eb9833a042bc433b3&path=%2F%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8%2FWA.2.0%2C05.1.O.G4.A.250&size=640&name=WA.2.0%2C05.1.O.G4.A%20%282%29.jpg&cacheSlayer=30554.58620750906"
+                  },
+                  {
+                    "name": "WA.2.0,05.1.O.G4.A (3).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=d96f0b9894894e8eb9833a042bc433b3&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=d96f0b9894894e8eb9833a042bc433b3&path=%2F%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8%2FWA.2.0%2C05.1.O.G4.A.250&size=640&name=WA.2.0%2C05.1.O.G4.A%20%283%29.jpg&cacheSlayer=487278.2170460528"
+                  },
+                  {
+                    "name": "WA.2.0,05.1.O.G4.A (4).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=d96f0b9894894e8eb9833a042bc433b3&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=d96f0b9894894e8eb9833a042bc433b3&path=%2F%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8%2FWA.2.0%2C05.1.O.G4.A.250&size=640&name=WA.2.0%2C05.1.O.G4.A%20%284%29.jpg&cacheSlayer=93192.98561499378"
+                  },
+                  {
+                    "name": "WA.2.0,05.1.O.G4.A (5).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=d96f0b9894894e8eb9833a042bc433b3&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=d96f0b9894894e8eb9833a042bc433b3&path=%2F%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8%2FWA.2.0%2C05.1.O.G4.A.250&size=640&name=WA.2.0%2C05.1.O.G4.A%20%285%29.jpg&cacheSlayer=113386.32851387154"
+                  },
+                  {
+                    "name": "WA.2.0,05.1.O.G4.A (6).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=d96f0b9894894e8eb9833a042bc433b3&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=d96f0b9894894e8eb9833a042bc433b3&path=%2F%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8%2FWA.2.0%2C05.1.O.G4.A.250&size=640&name=WA.2.0%2C05.1.O.G4.A%20%286%29.jpg&cacheSlayer=21634.347424518197"
+                  }
+                ],
+                "folders": []
+              },
+              {
+                "path": "/home/SAIP/%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8/WA.2.0,35.1.O.G4.A.250",
+                "folder_display_name": "WA.2.0,35.1.O.G4.A.250",
+                "folder_encoded_name": "WA.2.0%2C35.1.O.G4.A.250",
+                "files": [
+                  {
+                    "name": "WA.2.0,35.1.O.G4.A (1).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=d96f0b9894894e8eb9833a042bc433b3&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=d96f0b9894894e8eb9833a042bc433b3&path=%2F%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8%2FWA.2.0%2C35.1.O.G4.A.250&size=640&name=WA.2.0%2C35.1.O.G4.A%20%281%29.jpg&cacheSlayer=8423.460020257067"
+                  },
+                  {
+                    "name": "WA.2.0,35.1.O.G4.A (2).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=d96f0b9894894e8eb9833a042bc433b3&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=d96f0b9894894e8eb9833a042bc433b3&path=%2F%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8%2FWA.2.0%2C35.1.O.G4.A.250&size=640&name=WA.2.0%2C35.1.O.G4.A%20%282%29.jpg&cacheSlayer=784635.5212314108"
+                  },
+                  {
+                    "name": "WA.2.0,35.1.O.G4.A (3).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=d96f0b9894894e8eb9833a042bc433b3&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=d96f0b9894894e8eb9833a042bc433b3&path=%2F%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8%2FWA.2.0%2C35.1.O.G4.A.250&size=640&name=WA.2.0%2C35.1.O.G4.A%20%283%29.jpg&cacheSlayer=358532.0195369501"
+                  },
+                  {
+                    "name": "WA.2.0,35.1.O.G4.A (4).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=d96f0b9894894e8eb9833a042bc433b3&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=d96f0b9894894e8eb9833a042bc433b3&path=%2F%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8%2FWA.2.0%2C35.1.O.G4.A.250&size=640&name=WA.2.0%2C35.1.O.G4.A%20%284%29.jpg&cacheSlayer=844168.9363937975"
+                  },
+                  {
+                    "name": "WA.2.0,35.1.O.G4.A (5).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=d96f0b9894894e8eb9833a042bc433b3&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=d96f0b9894894e8eb9833a042bc433b3&path=%2F%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8%2FWA.2.0%2C35.1.O.G4.A.250&size=640&name=WA.2.0%2C35.1.O.G4.A%20%285%29.jpg&cacheSlayer=717847.0138881465"
+                  }
+                ],
+                "folders": []
+              },
+              {
+                "path": "/home/SAIP/%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8/WA.2.1.1.O.G4.A.210",
+                "folder_display_name": "WA.2.1.1.O.G4.A.210",
+                "folder_encoded_name": "WA.2.1.1.O.G4.A.210",
+                "files": [
+                  {
+                    "name": "WA.2.1.1.O.G4.A.210_1.JPG",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=d96f0b9894894e8eb9833a042bc433b3&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=d96f0b9894894e8eb9833a042bc433b3&path=%2F%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8%2FWA.2.1.1.O.G4.A.210&size=640&name=WA.2.1.1.O.G4.A.210_1.JPG&cacheSlayer=549148.66541106"
+                  },
+                  {
+                    "name": "WA.2.1.1.O.G4.A.210_2.JPG",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=d96f0b9894894e8eb9833a042bc433b3&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=d96f0b9894894e8eb9833a042bc433b3&path=%2F%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8%2FWA.2.1.1.O.G4.A.210&size=640&name=WA.2.1.1.O.G4.A.210_2.JPG&cacheSlayer=873059.6290718921"
+                  }
+                ],
+                "folders": []
+              },
+              {
+                "path": "/home/SAIP/%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8/WA.2.3,5.1.O.Y9.L.250",
+                "folder_display_name": "WA.2.3,5.1.O.Y9.L.250",
+                "folder_encoded_name": "WA.2.3%2C5.1.O.Y9.L.250",
+                "files": [
+                  {
+                    "name": "WA.2.3,5.1.O.Y9.L (1).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=d96f0b9894894e8eb9833a042bc433b3&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=d96f0b9894894e8eb9833a042bc433b3&path=%2F%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8%2FWA.2.3%2C5.1.O.Y9.L.250&size=640&name=WA.2.3%2C5.1.O.Y9.L%20%281%29.jpg&cacheSlayer=695272.1514538772"
+                  },
+                  {
+                    "name": "WA.2.3,5.1.O.Y9.L (2).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=d96f0b9894894e8eb9833a042bc433b3&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=d96f0b9894894e8eb9833a042bc433b3&path=%2F%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8%2FWA.2.3%2C5.1.O.Y9.L.250&size=640&name=WA.2.3%2C5.1.O.Y9.L%20%282%29.jpg&cacheSlayer=941771.4622874681"
+                  }
+                ],
+                "folders": []
+              },
+              {
+                "path": "/home/SAIP/%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8/WA.2.4.1.O.Y9.L.210",
+                "folder_display_name": "WA.2.4.1.O.Y9.L.210",
+                "folder_encoded_name": "WA.2.4.1.O.Y9.L.210",
+                "files": [
+                  {
+                    "name": "WA.2.4.1.O.Y9.L (1).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=d96f0b9894894e8eb9833a042bc433b3&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=d96f0b9894894e8eb9833a042bc433b3&path=%2F%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8%2FWA.2.4.1.O.Y9.L.210&size=640&name=WA.2.4.1.O.Y9.L%20%281%29.jpg&cacheSlayer=875664.309018455"
+                  },
+                  {
+                    "name": "WA.2.4.1.O.Y9.L (2).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=d96f0b9894894e8eb9833a042bc433b3&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=d96f0b9894894e8eb9833a042bc433b3&path=%2F%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8%2FWA.2.4.1.O.Y9.L.210&size=640&name=WA.2.4.1.O.Y9.L%20%282%29.jpg&cacheSlayer=206251.28128549308"
+                  },
+                  {
+                    "name": "WA.2.4.1.O.Y9.L (3).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=d96f0b9894894e8eb9833a042bc433b3&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=d96f0b9894894e8eb9833a042bc433b3&path=%2F%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8%2FWA.2.4.1.O.Y9.L.210&size=640&name=WA.2.4.1.O.Y9.L%20%283%29.jpg&cacheSlayer=40600.880288940156"
+                  },
+                  {
+                    "name": "WA.2.4.1.O.Y9.L (4).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=d96f0b9894894e8eb9833a042bc433b3&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=d96f0b9894894e8eb9833a042bc433b3&path=%2F%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8%2FWA.2.4.1.O.Y9.L.210&size=640&name=WA.2.4.1.O.Y9.L%20%284%29.jpg&cacheSlayer=335350.20586292644"
+                  },
+                  {
+                    "name": "WA.2.4.1.O.Y9.L (5).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=d96f0b9894894e8eb9833a042bc433b3&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=d96f0b9894894e8eb9833a042bc433b3&path=%2F%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8%2FWA.2.4.1.O.Y9.L.210&size=640&name=WA.2.4.1.O.Y9.L%20%285%29.jpg&cacheSlayer=472448.0096759217"
+                  },
+                  {
+                    "name": "WA.2.4.1.O.Y9.L (6).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=d96f0b9894894e8eb9833a042bc433b3&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=d96f0b9894894e8eb9833a042bc433b3&path=%2F%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8%2FWA.2.4.1.O.Y9.L.210&size=640&name=WA.2.4.1.O.Y9.L%20%286%29.jpg&cacheSlayer=722115.1096587677"
+                  }
+                ],
+                "folders": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "flat": [
+    {
+      "type": "folder",
+      "path": "/home",
+      "folder_display_name": "home",
+      "folder_encoded_name": "home"
+    },
+    {
+      "type": "folder",
+      "path": "/home/SAIP",
+      "folder_display_name": "SAIP",
+      "folder_encoded_name": "SAIP"
+    },
+    {
+      "type": "folder",
+      "path": "/home/SAIP/%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8",
+      "folder_display_name": "Акумулятори",
+      "folder_encoded_name": "%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8"
+    },
+    {
+      "type": "folder",
+      "path": "/home/SAIP/%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8/WA.2.0,05.1.O.G4.A.250",
+      "folder_display_name": "WA.2.0,05.1.O.G4.A.250",
+      "folder_encoded_name": "WA.2.0%2C05.1.O.G4.A.250"
+    },
+    {
+      "type": "file",
+      "path": "/home/SAIP/%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8/WA.2.0,05.1.O.G4.A.250",
+      "name": "WA.2.0,05.1.O.G4.A (1).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=d96f0b9894894e8eb9833a042bc433b3&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=d96f0b9894894e8eb9833a042bc433b3&path=%2F%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8%2FWA.2.0%2C05.1.O.G4.A.250&size=640&name=WA.2.0%2C05.1.O.G4.A%20%281%29.jpg&cacheSlayer=532446.0915868215",
+      "parent_folder_display_name": "WA.2.0,05.1.O.G4.A.250",
+      "parent_folder_encoded_name": "WA.2.0%2C05.1.O.G4.A.250"
+    },
+    {
+      "type": "file",
+      "path": "/home/SAIP/%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8/WA.2.0,05.1.O.G4.A.250",
+      "name": "WA.2.0,05.1.O.G4.A (2).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=d96f0b9894894e8eb9833a042bc433b3&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=d96f0b9894894e8eb9833a042bc433b3&path=%2F%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8%2FWA.2.0%2C05.1.O.G4.A.250&size=640&name=WA.2.0%2C05.1.O.G4.A%20%282%29.jpg&cacheSlayer=30554.58620750906",
+      "parent_folder_display_name": "WA.2.0,05.1.O.G4.A.250",
+      "parent_folder_encoded_name": "WA.2.0%2C05.1.O.G4.A.250"
+    },
+    {
+      "type": "file",
+      "path": "/home/SAIP/%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8/WA.2.0,05.1.O.G4.A.250",
+      "name": "WA.2.0,05.1.O.G4.A (3).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=d96f0b9894894e8eb9833a042bc433b3&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=d96f0b9894894e8eb9833a042bc433b3&path=%2F%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8%2FWA.2.0%2C05.1.O.G4.A.250&size=640&name=WA.2.0%2C05.1.O.G4.A%20%283%29.jpg&cacheSlayer=487278.2170460528",
+      "parent_folder_display_name": "WA.2.0,05.1.O.G4.A.250",
+      "parent_folder_encoded_name": "WA.2.0%2C05.1.O.G4.A.250"
+    },
+    {
+      "type": "file",
+      "path": "/home/SAIP/%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8/WA.2.0,05.1.O.G4.A.250",
+      "name": "WA.2.0,05.1.O.G4.A (4).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=d96f0b9894894e8eb9833a042bc433b3&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=d96f0b9894894e8eb9833a042bc433b3&path=%2F%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8%2FWA.2.0%2C05.1.O.G4.A.250&size=640&name=WA.2.0%2C05.1.O.G4.A%20%284%29.jpg&cacheSlayer=93192.98561499378",
+      "parent_folder_display_name": "WA.2.0,05.1.O.G4.A.250",
+      "parent_folder_encoded_name": "WA.2.0%2C05.1.O.G4.A.250"
+    },
+    {
+      "type": "file",
+      "path": "/home/SAIP/%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8/WA.2.0,05.1.O.G4.A.250",
+      "name": "WA.2.0,05.1.O.G4.A (5).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=d96f0b9894894e8eb9833a042bc433b3&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=d96f0b9894894e8eb9833a042bc433b3&path=%2F%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8%2FWA.2.0%2C05.1.O.G4.A.250&size=640&name=WA.2.0%2C05.1.O.G4.A%20%285%29.jpg&cacheSlayer=113386.32851387154",
+      "parent_folder_display_name": "WA.2.0,05.1.O.G4.A.250",
+      "parent_folder_encoded_name": "WA.2.0%2C05.1.O.G4.A.250"
+    },
+    {
+      "type": "file",
+      "path": "/home/SAIP/%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8/WA.2.0,05.1.O.G4.A.250",
+      "name": "WA.2.0,05.1.O.G4.A (6).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=d96f0b9894894e8eb9833a042bc433b3&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=d96f0b9894894e8eb9833a042bc433b3&path=%2F%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8%2FWA.2.0%2C05.1.O.G4.A.250&size=640&name=WA.2.0%2C05.1.O.G4.A%20%286%29.jpg&cacheSlayer=21634.347424518197",
+      "parent_folder_display_name": "WA.2.0,05.1.O.G4.A.250",
+      "parent_folder_encoded_name": "WA.2.0%2C05.1.O.G4.A.250"
+    },
+    {
+      "type": "folder",
+      "path": "/home/SAIP/%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8/WA.2.0,35.1.O.G4.A.250",
+      "folder_display_name": "WA.2.0,35.1.O.G4.A.250",
+      "folder_encoded_name": "WA.2.0%2C35.1.O.G4.A.250"
+    },
+    {
+      "type": "file",
+      "path": "/home/SAIP/%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8/WA.2.0,35.1.O.G4.A.250",
+      "name": "WA.2.0,35.1.O.G4.A (1).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=d96f0b9894894e8eb9833a042bc433b3&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=d96f0b9894894e8eb9833a042bc433b3&path=%2F%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8%2FWA.2.0%2C35.1.O.G4.A.250&size=640&name=WA.2.0%2C35.1.O.G4.A%20%281%29.jpg&cacheSlayer=8423.460020257067",
+      "parent_folder_display_name": "WA.2.0,35.1.O.G4.A.250",
+      "parent_folder_encoded_name": "WA.2.0%2C35.1.O.G4.A.250"
+    },
+    {
+      "type": "file",
+      "path": "/home/SAIP/%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8/WA.2.0,35.1.O.G4.A.250",
+      "name": "WA.2.0,35.1.O.G4.A (2).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=d96f0b9894894e8eb9833a042bc433b3&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=d96f0b9894894e8eb9833a042bc433b3&path=%2F%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8%2FWA.2.0%2C35.1.O.G4.A.250&size=640&name=WA.2.0%2C35.1.O.G4.A%20%282%29.jpg&cacheSlayer=784635.5212314108",
+      "parent_folder_display_name": "WA.2.0,35.1.O.G4.A.250",
+      "parent_folder_encoded_name": "WA.2.0%2C35.1.O.G4.A.250"
+    },
+    {
+      "type": "file",
+      "path": "/home/SAIP/%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8/WA.2.0,35.1.O.G4.A.250",
+      "name": "WA.2.0,35.1.O.G4.A (3).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=d96f0b9894894e8eb9833a042bc433b3&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=d96f0b9894894e8eb9833a042bc433b3&path=%2F%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8%2FWA.2.0%2C35.1.O.G4.A.250&size=640&name=WA.2.0%2C35.1.O.G4.A%20%283%29.jpg&cacheSlayer=358532.0195369501",
+      "parent_folder_display_name": "WA.2.0,35.1.O.G4.A.250",
+      "parent_folder_encoded_name": "WA.2.0%2C35.1.O.G4.A.250"
+    },
+    {
+      "type": "file",
+      "path": "/home/SAIP/%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8/WA.2.0,35.1.O.G4.A.250",
+      "name": "WA.2.0,35.1.O.G4.A (4).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=d96f0b9894894e8eb9833a042bc433b3&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=d96f0b9894894e8eb9833a042bc433b3&path=%2F%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8%2FWA.2.0%2C35.1.O.G4.A.250&size=640&name=WA.2.0%2C35.1.O.G4.A%20%284%29.jpg&cacheSlayer=844168.9363937975",
+      "parent_folder_display_name": "WA.2.0,35.1.O.G4.A.250",
+      "parent_folder_encoded_name": "WA.2.0%2C35.1.O.G4.A.250"
+    },
+    {
+      "type": "file",
+      "path": "/home/SAIP/%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8/WA.2.0,35.1.O.G4.A.250",
+      "name": "WA.2.0,35.1.O.G4.A (5).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=d96f0b9894894e8eb9833a042bc433b3&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=d96f0b9894894e8eb9833a042bc433b3&path=%2F%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8%2FWA.2.0%2C35.1.O.G4.A.250&size=640&name=WA.2.0%2C35.1.O.G4.A%20%285%29.jpg&cacheSlayer=717847.0138881465",
+      "parent_folder_display_name": "WA.2.0,35.1.O.G4.A.250",
+      "parent_folder_encoded_name": "WA.2.0%2C35.1.O.G4.A.250"
+    },
+    {
+      "type": "folder",
+      "path": "/home/SAIP/%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8/WA.2.1.1.O.G4.A.210",
+      "folder_display_name": "WA.2.1.1.O.G4.A.210",
+      "folder_encoded_name": "WA.2.1.1.O.G4.A.210"
+    },
+    {
+      "type": "file",
+      "path": "/home/SAIP/%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8/WA.2.1.1.O.G4.A.210",
+      "name": "WA.2.1.1.O.G4.A.210_1.JPG",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=d96f0b9894894e8eb9833a042bc433b3&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=d96f0b9894894e8eb9833a042bc433b3&path=%2F%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8%2FWA.2.1.1.O.G4.A.210&size=640&name=WA.2.1.1.O.G4.A.210_1.JPG&cacheSlayer=549148.66541106",
+      "parent_folder_display_name": "WA.2.1.1.O.G4.A.210",
+      "parent_folder_encoded_name": "WA.2.1.1.O.G4.A.210"
+    },
+    {
+      "type": "file",
+      "path": "/home/SAIP/%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8/WA.2.1.1.O.G4.A.210",
+      "name": "WA.2.1.1.O.G4.A.210_2.JPG",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=d96f0b9894894e8eb9833a042bc433b3&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=d96f0b9894894e8eb9833a042bc433b3&path=%2F%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8%2FWA.2.1.1.O.G4.A.210&size=640&name=WA.2.1.1.O.G4.A.210_2.JPG&cacheSlayer=873059.6290718921",
+      "parent_folder_display_name": "WA.2.1.1.O.G4.A.210",
+      "parent_folder_encoded_name": "WA.2.1.1.O.G4.A.210"
+    },
+    {
+      "type": "folder",
+      "path": "/home/SAIP/%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8/WA.2.3,5.1.O.Y9.L.250",
+      "folder_display_name": "WA.2.3,5.1.O.Y9.L.250",
+      "folder_encoded_name": "WA.2.3%2C5.1.O.Y9.L.250"
+    },
+    {
+      "type": "file",
+      "path": "/home/SAIP/%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8/WA.2.3,5.1.O.Y9.L.250",
+      "name": "WA.2.3,5.1.O.Y9.L (1).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=d96f0b9894894e8eb9833a042bc433b3&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=d96f0b9894894e8eb9833a042bc433b3&path=%2F%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8%2FWA.2.3%2C5.1.O.Y9.L.250&size=640&name=WA.2.3%2C5.1.O.Y9.L%20%281%29.jpg&cacheSlayer=695272.1514538772",
+      "parent_folder_display_name": "WA.2.3,5.1.O.Y9.L.250",
+      "parent_folder_encoded_name": "WA.2.3%2C5.1.O.Y9.L.250"
+    },
+    {
+      "type": "file",
+      "path": "/home/SAIP/%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8/WA.2.3,5.1.O.Y9.L.250",
+      "name": "WA.2.3,5.1.O.Y9.L (2).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=d96f0b9894894e8eb9833a042bc433b3&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=d96f0b9894894e8eb9833a042bc433b3&path=%2F%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8%2FWA.2.3%2C5.1.O.Y9.L.250&size=640&name=WA.2.3%2C5.1.O.Y9.L%20%282%29.jpg&cacheSlayer=941771.4622874681",
+      "parent_folder_display_name": "WA.2.3,5.1.O.Y9.L.250",
+      "parent_folder_encoded_name": "WA.2.3%2C5.1.O.Y9.L.250"
+    },
+    {
+      "type": "folder",
+      "path": "/home/SAIP/%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8/WA.2.4.1.O.Y9.L.210",
+      "folder_display_name": "WA.2.4.1.O.Y9.L.210",
+      "folder_encoded_name": "WA.2.4.1.O.Y9.L.210"
+    },
+    {
+      "type": "file",
+      "path": "/home/SAIP/%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8/WA.2.4.1.O.Y9.L.210",
+      "name": "WA.2.4.1.O.Y9.L (1).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=d96f0b9894894e8eb9833a042bc433b3&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=d96f0b9894894e8eb9833a042bc433b3&path=%2F%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8%2FWA.2.4.1.O.Y9.L.210&size=640&name=WA.2.4.1.O.Y9.L%20%281%29.jpg&cacheSlayer=875664.309018455",
+      "parent_folder_display_name": "WA.2.4.1.O.Y9.L.210",
+      "parent_folder_encoded_name": "WA.2.4.1.O.Y9.L.210"
+    },
+    {
+      "type": "file",
+      "path": "/home/SAIP/%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8/WA.2.4.1.O.Y9.L.210",
+      "name": "WA.2.4.1.O.Y9.L (2).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=d96f0b9894894e8eb9833a042bc433b3&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=d96f0b9894894e8eb9833a042bc433b3&path=%2F%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8%2FWA.2.4.1.O.Y9.L.210&size=640&name=WA.2.4.1.O.Y9.L%20%282%29.jpg&cacheSlayer=206251.28128549308",
+      "parent_folder_display_name": "WA.2.4.1.O.Y9.L.210",
+      "parent_folder_encoded_name": "WA.2.4.1.O.Y9.L.210"
+    },
+    {
+      "type": "file",
+      "path": "/home/SAIP/%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8/WA.2.4.1.O.Y9.L.210",
+      "name": "WA.2.4.1.O.Y9.L (3).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=d96f0b9894894e8eb9833a042bc433b3&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=d96f0b9894894e8eb9833a042bc433b3&path=%2F%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8%2FWA.2.4.1.O.Y9.L.210&size=640&name=WA.2.4.1.O.Y9.L%20%283%29.jpg&cacheSlayer=40600.880288940156",
+      "parent_folder_display_name": "WA.2.4.1.O.Y9.L.210",
+      "parent_folder_encoded_name": "WA.2.4.1.O.Y9.L.210"
+    },
+    {
+      "type": "file",
+      "path": "/home/SAIP/%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8/WA.2.4.1.O.Y9.L.210",
+      "name": "WA.2.4.1.O.Y9.L (4).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=d96f0b9894894e8eb9833a042bc433b3&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=d96f0b9894894e8eb9833a042bc433b3&path=%2F%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8%2FWA.2.4.1.O.Y9.L.210&size=640&name=WA.2.4.1.O.Y9.L%20%284%29.jpg&cacheSlayer=335350.20586292644",
+      "parent_folder_display_name": "WA.2.4.1.O.Y9.L.210",
+      "parent_folder_encoded_name": "WA.2.4.1.O.Y9.L.210"
+    },
+    {
+      "type": "file",
+      "path": "/home/SAIP/%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8/WA.2.4.1.O.Y9.L.210",
+      "name": "WA.2.4.1.O.Y9.L (5).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=d96f0b9894894e8eb9833a042bc433b3&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=d96f0b9894894e8eb9833a042bc433b3&path=%2F%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8%2FWA.2.4.1.O.Y9.L.210&size=640&name=WA.2.4.1.O.Y9.L%20%285%29.jpg&cacheSlayer=472448.0096759217",
+      "parent_folder_display_name": "WA.2.4.1.O.Y9.L.210",
+      "parent_folder_encoded_name": "WA.2.4.1.O.Y9.L.210"
+    },
+    {
+      "type": "file",
+      "path": "/home/SAIP/%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8/WA.2.4.1.O.Y9.L.210",
+      "name": "WA.2.4.1.O.Y9.L (6).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=d96f0b9894894e8eb9833a042bc433b3&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=d96f0b9894894e8eb9833a042bc433b3&path=%2F%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B8%2FWA.2.4.1.O.Y9.L.210&size=640&name=WA.2.4.1.O.Y9.L%20%286%29.jpg&cacheSlayer=722115.1096587677",
+      "parent_folder_display_name": "WA.2.4.1.O.Y9.L.210",
+      "parent_folder_encoded_name": "WA.2.4.1.O.Y9.L.210"
+    }
+  ]
+}
