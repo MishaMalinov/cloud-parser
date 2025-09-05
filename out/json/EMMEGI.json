@@ -1,0 +1,304 @@
+{
+  "meta": {
+    "generated_at": "2025-09-04T06:29:48.045381Z",
+    "brand": "EMMEGI",
+    "root_url": "https://www.myqnapcloud.com/smartshare/76f5f806np2m2676sux5w18d_576hhigm1j282q69rw2658705da01449",
+    "max_depth": null,
+    "image_extensions": [
+      ".png",
+      ".jpg",
+      ".jpeg"
+    ],
+    "generated_at_local": "2025-09-04T08:29:48"
+  },
+  "tree": {
+    "path": "/home",
+    "folder_display_name": "home",
+    "folder_encoded_name": "home",
+    "files": [],
+    "folders": [
+      {
+        "path": "/home/Emmegi",
+        "folder_display_name": "Emmegi",
+        "folder_encoded_name": "Emmegi",
+        "files": [],
+        "folders": [
+          {
+            "path": "/home/Emmegi/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8",
+            "folder_display_name": "Теплообмінники",
+            "folder_encoded_name": "%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8",
+            "files": [],
+            "folders": [
+              {
+                "path": "/home/Emmegi/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8/MS2%2012V%20DC%20-%20RAL%209005",
+                "folder_display_name": "MS2 12V DC - RAL 9005",
+                "folder_encoded_name": "MS2%2012V%20DC%20-%20RAL%209005",
+                "files": [
+                  {
+                    "name": "MS2_12V_DC-RAL_9005 (1).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=908eddaf7a614d68bf8191915ea77982&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=908eddaf7a614d68bf8191915ea77982&path=%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8%2FMS2%2012V%20DC%20-%20RAL%209005&size=640&name=MS2_12V_DC-RAL_9005%20%281%29.jpg&cacheSlayer=576799.0100142495"
+                  },
+                  {
+                    "name": "MS2_12V_DC-RAL_9005 (2).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=908eddaf7a614d68bf8191915ea77982&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=908eddaf7a614d68bf8191915ea77982&path=%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8%2FMS2%2012V%20DC%20-%20RAL%209005&size=640&name=MS2_12V_DC-RAL_9005%20%282%29.jpg&cacheSlayer=19216.820479091457"
+                  },
+                  {
+                    "name": "MS2_12V_DC-RAL_9005 (3).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=908eddaf7a614d68bf8191915ea77982&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=908eddaf7a614d68bf8191915ea77982&path=%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8%2FMS2%2012V%20DC%20-%20RAL%209005&size=640&name=MS2_12V_DC-RAL_9005%20%283%29.jpg&cacheSlayer=133858.16897552073"
+                  },
+                  {
+                    "name": "MS2_12V_DC-RAL_9005 (4).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=908eddaf7a614d68bf8191915ea77982&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=908eddaf7a614d68bf8191915ea77982&path=%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8%2FMS2%2012V%20DC%20-%20RAL%209005&size=640&name=MS2_12V_DC-RAL_9005%20%284%29.jpg&cacheSlayer=935567.9495175842"
+                  },
+                  {
+                    "name": "MS2_12V_DC-RAL_9005 (5).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=908eddaf7a614d68bf8191915ea77982&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=908eddaf7a614d68bf8191915ea77982&path=%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8%2FMS2%2012V%20DC%20-%20RAL%209005&size=640&name=MS2_12V_DC-RAL_9005%20%285%29.jpg&cacheSlayer=589409.1553746291"
+                  },
+                  {
+                    "name": "MS2_12V_DC-RAL_9005 (6).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=908eddaf7a614d68bf8191915ea77982&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=908eddaf7a614d68bf8191915ea77982&path=%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8%2FMS2%2012V%20DC%20-%20RAL%209005&size=640&name=MS2_12V_DC-RAL_9005%20%286%29.jpg&cacheSlayer=208901.44076890603"
+                  }
+                ],
+                "folders": []
+              },
+              {
+                "path": "/home/Emmegi/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8/MS4%2012V%20DC%20-%20RAL%209005%20(A233900012001)",
+                "folder_display_name": "MS4 12V DC - RAL 9005 (A233900012001)",
+                "folder_encoded_name": "MS4%2012V%20DC%20-%20RAL%209005%20%28A233900012001%29",
+                "files": [
+                  {
+                    "name": "MS4_12V_DC-RAL_9005_A233900012001 (1).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=908eddaf7a614d68bf8191915ea77982&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=908eddaf7a614d68bf8191915ea77982&path=%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8%2FMS4%2012V%20DC%20-%20RAL%209005%20%28A233900012001%29&size=640&name=MS4_12V_DC-RAL_9005_A233900012001%20%281%29.jpg&cacheSlayer=445921.04188385163"
+                  },
+                  {
+                    "name": "MS4_12V_DC-RAL_9005_A233900012001 (2).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=908eddaf7a614d68bf8191915ea77982&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=908eddaf7a614d68bf8191915ea77982&path=%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8%2FMS4%2012V%20DC%20-%20RAL%209005%20%28A233900012001%29&size=640&name=MS4_12V_DC-RAL_9005_A233900012001%20%282%29.jpg&cacheSlayer=525220.9609201588"
+                  },
+                  {
+                    "name": "MS4_12V_DC-RAL_9005_A233900012001 (3).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=908eddaf7a614d68bf8191915ea77982&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=908eddaf7a614d68bf8191915ea77982&path=%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8%2FMS4%2012V%20DC%20-%20RAL%209005%20%28A233900012001%29&size=640&name=MS4_12V_DC-RAL_9005_A233900012001%20%283%29.jpg&cacheSlayer=479751.2956493023"
+                  },
+                  {
+                    "name": "MS4_12V_DC-RAL_9005_A233900012001 (4).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=908eddaf7a614d68bf8191915ea77982&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=908eddaf7a614d68bf8191915ea77982&path=%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8%2FMS4%2012V%20DC%20-%20RAL%209005%20%28A233900012001%29&size=640&name=MS4_12V_DC-RAL_9005_A233900012001%20%284%29.jpg&cacheSlayer=254897.92129628808"
+                  },
+                  {
+                    "name": "MS4_12V_DC-RAL_9005_A233900012001 (5).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=908eddaf7a614d68bf8191915ea77982&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=908eddaf7a614d68bf8191915ea77982&path=%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8%2FMS4%2012V%20DC%20-%20RAL%209005%20%28A233900012001%29&size=640&name=MS4_12V_DC-RAL_9005_A233900012001%20%285%29.jpg&cacheSlayer=683936.3074512376"
+                  }
+                ],
+                "folders": []
+              },
+              {
+                "path": "/home/Emmegi/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8/MS4%2024V%20(A048400024001)",
+                "folder_display_name": "MS4 24V (A048400024001)",
+                "folder_encoded_name": "MS4%2024V%20%28A048400024001%29",
+                "files": [
+                  {
+                    "name": "MS4_24V_A048400024001 (1).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=908eddaf7a614d68bf8191915ea77982&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=908eddaf7a614d68bf8191915ea77982&path=%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8%2FMS4%2024V%20%28A048400024001%29&size=640&name=MS4_24V_A048400024001%20%281%29.jpg&cacheSlayer=646981.3939009708"
+                  },
+                  {
+                    "name": "MS4_24V_A048400024001 (2).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=908eddaf7a614d68bf8191915ea77982&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=908eddaf7a614d68bf8191915ea77982&path=%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8%2FMS4%2024V%20%28A048400024001%29&size=640&name=MS4_24V_A048400024001%20%282%29.jpg&cacheSlayer=453033.86137836013"
+                  },
+                  {
+                    "name": "MS4_24V_A048400024001 (3).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=908eddaf7a614d68bf8191915ea77982&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=908eddaf7a614d68bf8191915ea77982&path=%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8%2FMS4%2024V%20%28A048400024001%29&size=640&name=MS4_24V_A048400024001%20%283%29.jpg&cacheSlayer=439325.5292331737"
+                  },
+                  {
+                    "name": "MS4_24V_A048400024001 (4).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=908eddaf7a614d68bf8191915ea77982&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=908eddaf7a614d68bf8191915ea77982&path=%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8%2FMS4%2024V%20%28A048400024001%29&size=640&name=MS4_24V_A048400024001%20%284%29.jpg&cacheSlayer=592715.6900026154"
+                  },
+                  {
+                    "name": "MS4_24V_A048400024001 (5).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=908eddaf7a614d68bf8191915ea77982&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=908eddaf7a614d68bf8191915ea77982&path=%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8%2FMS4%2024V%20%28A048400024001%29&size=640&name=MS4_24V_A048400024001%20%285%29.jpg&cacheSlayer=412472.19515958533"
+                  },
+                  {
+                    "name": "MS4_24V_A048400024001 (6).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=908eddaf7a614d68bf8191915ea77982&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=908eddaf7a614d68bf8191915ea77982&path=%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8%2FMS4%2024V%20%28A048400024001%29&size=640&name=MS4_24V_A048400024001%20%286%29.jpg&cacheSlayer=527413.0670277784"
+                  }
+                ],
+                "folders": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "flat": [
+    {
+      "type": "folder",
+      "path": "/home",
+      "folder_display_name": "home",
+      "folder_encoded_name": "home"
+    },
+    {
+      "type": "folder",
+      "path": "/home/Emmegi",
+      "folder_display_name": "Emmegi",
+      "folder_encoded_name": "Emmegi"
+    },
+    {
+      "type": "folder",
+      "path": "/home/Emmegi/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8",
+      "folder_display_name": "Теплообмінники",
+      "folder_encoded_name": "%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "type": "folder",
+      "path": "/home/Emmegi/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8/MS2%2012V%20DC%20-%20RAL%209005",
+      "folder_display_name": "MS2 12V DC - RAL 9005",
+      "folder_encoded_name": "MS2%2012V%20DC%20-%20RAL%209005"
+    },
+    {
+      "type": "file",
+      "path": "/home/Emmegi/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8/MS2%2012V%20DC%20-%20RAL%209005",
+      "name": "MS2_12V_DC-RAL_9005 (1).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=908eddaf7a614d68bf8191915ea77982&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=908eddaf7a614d68bf8191915ea77982&path=%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8%2FMS2%2012V%20DC%20-%20RAL%209005&size=640&name=MS2_12V_DC-RAL_9005%20%281%29.jpg&cacheSlayer=576799.0100142495",
+      "parent_folder_display_name": "MS2 12V DC - RAL 9005",
+      "parent_folder_encoded_name": "MS2%2012V%20DC%20-%20RAL%209005"
+    },
+    {
+      "type": "file",
+      "path": "/home/Emmegi/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8/MS2%2012V%20DC%20-%20RAL%209005",
+      "name": "MS2_12V_DC-RAL_9005 (2).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=908eddaf7a614d68bf8191915ea77982&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=908eddaf7a614d68bf8191915ea77982&path=%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8%2FMS2%2012V%20DC%20-%20RAL%209005&size=640&name=MS2_12V_DC-RAL_9005%20%282%29.jpg&cacheSlayer=19216.820479091457",
+      "parent_folder_display_name": "MS2 12V DC - RAL 9005",
+      "parent_folder_encoded_name": "MS2%2012V%20DC%20-%20RAL%209005"
+    },
+    {
+      "type": "file",
+      "path": "/home/Emmegi/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8/MS2%2012V%20DC%20-%20RAL%209005",
+      "name": "MS2_12V_DC-RAL_9005 (3).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=908eddaf7a614d68bf8191915ea77982&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=908eddaf7a614d68bf8191915ea77982&path=%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8%2FMS2%2012V%20DC%20-%20RAL%209005&size=640&name=MS2_12V_DC-RAL_9005%20%283%29.jpg&cacheSlayer=133858.16897552073",
+      "parent_folder_display_name": "MS2 12V DC - RAL 9005",
+      "parent_folder_encoded_name": "MS2%2012V%20DC%20-%20RAL%209005"
+    },
+    {
+      "type": "file",
+      "path": "/home/Emmegi/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8/MS2%2012V%20DC%20-%20RAL%209005",
+      "name": "MS2_12V_DC-RAL_9005 (4).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=908eddaf7a614d68bf8191915ea77982&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=908eddaf7a614d68bf8191915ea77982&path=%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8%2FMS2%2012V%20DC%20-%20RAL%209005&size=640&name=MS2_12V_DC-RAL_9005%20%284%29.jpg&cacheSlayer=935567.9495175842",
+      "parent_folder_display_name": "MS2 12V DC - RAL 9005",
+      "parent_folder_encoded_name": "MS2%2012V%20DC%20-%20RAL%209005"
+    },
+    {
+      "type": "file",
+      "path": "/home/Emmegi/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8/MS2%2012V%20DC%20-%20RAL%209005",
+      "name": "MS2_12V_DC-RAL_9005 (5).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=908eddaf7a614d68bf8191915ea77982&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=908eddaf7a614d68bf8191915ea77982&path=%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8%2FMS2%2012V%20DC%20-%20RAL%209005&size=640&name=MS2_12V_DC-RAL_9005%20%285%29.jpg&cacheSlayer=589409.1553746291",
+      "parent_folder_display_name": "MS2 12V DC - RAL 9005",
+      "parent_folder_encoded_name": "MS2%2012V%20DC%20-%20RAL%209005"
+    },
+    {
+      "type": "file",
+      "path": "/home/Emmegi/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8/MS2%2012V%20DC%20-%20RAL%209005",
+      "name": "MS2_12V_DC-RAL_9005 (6).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=908eddaf7a614d68bf8191915ea77982&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=908eddaf7a614d68bf8191915ea77982&path=%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8%2FMS2%2012V%20DC%20-%20RAL%209005&size=640&name=MS2_12V_DC-RAL_9005%20%286%29.jpg&cacheSlayer=208901.44076890603",
+      "parent_folder_display_name": "MS2 12V DC - RAL 9005",
+      "parent_folder_encoded_name": "MS2%2012V%20DC%20-%20RAL%209005"
+    },
+    {
+      "type": "folder",
+      "path": "/home/Emmegi/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8/MS4%2012V%20DC%20-%20RAL%209005%20(A233900012001)",
+      "folder_display_name": "MS4 12V DC - RAL 9005 (A233900012001)",
+      "folder_encoded_name": "MS4%2012V%20DC%20-%20RAL%209005%20%28A233900012001%29"
+    },
+    {
+      "type": "file",
+      "path": "/home/Emmegi/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8/MS4%2012V%20DC%20-%20RAL%209005%20(A233900012001)",
+      "name": "MS4_12V_DC-RAL_9005_A233900012001 (1).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=908eddaf7a614d68bf8191915ea77982&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=908eddaf7a614d68bf8191915ea77982&path=%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8%2FMS4%2012V%20DC%20-%20RAL%209005%20%28A233900012001%29&size=640&name=MS4_12V_DC-RAL_9005_A233900012001%20%281%29.jpg&cacheSlayer=445921.04188385163",
+      "parent_folder_display_name": "MS4 12V DC - RAL 9005 (A233900012001)",
+      "parent_folder_encoded_name": "MS4%2012V%20DC%20-%20RAL%209005%20%28A233900012001%29"
+    },
+    {
+      "type": "file",
+      "path": "/home/Emmegi/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8/MS4%2012V%20DC%20-%20RAL%209005%20(A233900012001)",
+      "name": "MS4_12V_DC-RAL_9005_A233900012001 (2).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=908eddaf7a614d68bf8191915ea77982&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=908eddaf7a614d68bf8191915ea77982&path=%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8%2FMS4%2012V%20DC%20-%20RAL%209005%20%28A233900012001%29&size=640&name=MS4_12V_DC-RAL_9005_A233900012001%20%282%29.jpg&cacheSlayer=525220.9609201588",
+      "parent_folder_display_name": "MS4 12V DC - RAL 9005 (A233900012001)",
+      "parent_folder_encoded_name": "MS4%2012V%20DC%20-%20RAL%209005%20%28A233900012001%29"
+    },
+    {
+      "type": "file",
+      "path": "/home/Emmegi/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8/MS4%2012V%20DC%20-%20RAL%209005%20(A233900012001)",
+      "name": "MS4_12V_DC-RAL_9005_A233900012001 (3).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=908eddaf7a614d68bf8191915ea77982&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=908eddaf7a614d68bf8191915ea77982&path=%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8%2FMS4%2012V%20DC%20-%20RAL%209005%20%28A233900012001%29&size=640&name=MS4_12V_DC-RAL_9005_A233900012001%20%283%29.jpg&cacheSlayer=479751.2956493023",
+      "parent_folder_display_name": "MS4 12V DC - RAL 9005 (A233900012001)",
+      "parent_folder_encoded_name": "MS4%2012V%20DC%20-%20RAL%209005%20%28A233900012001%29"
+    },
+    {
+      "type": "file",
+      "path": "/home/Emmegi/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8/MS4%2012V%20DC%20-%20RAL%209005%20(A233900012001)",
+      "name": "MS4_12V_DC-RAL_9005_A233900012001 (4).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=908eddaf7a614d68bf8191915ea77982&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=908eddaf7a614d68bf8191915ea77982&path=%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8%2FMS4%2012V%20DC%20-%20RAL%209005%20%28A233900012001%29&size=640&name=MS4_12V_DC-RAL_9005_A233900012001%20%284%29.jpg&cacheSlayer=254897.92129628808",
+      "parent_folder_display_name": "MS4 12V DC - RAL 9005 (A233900012001)",
+      "parent_folder_encoded_name": "MS4%2012V%20DC%20-%20RAL%209005%20%28A233900012001%29"
+    },
+    {
+      "type": "file",
+      "path": "/home/Emmegi/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8/MS4%2012V%20DC%20-%20RAL%209005%20(A233900012001)",
+      "name": "MS4_12V_DC-RAL_9005_A233900012001 (5).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=908eddaf7a614d68bf8191915ea77982&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=908eddaf7a614d68bf8191915ea77982&path=%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8%2FMS4%2012V%20DC%20-%20RAL%209005%20%28A233900012001%29&size=640&name=MS4_12V_DC-RAL_9005_A233900012001%20%285%29.jpg&cacheSlayer=683936.3074512376",
+      "parent_folder_display_name": "MS4 12V DC - RAL 9005 (A233900012001)",
+      "parent_folder_encoded_name": "MS4%2012V%20DC%20-%20RAL%209005%20%28A233900012001%29"
+    },
+    {
+      "type": "folder",
+      "path": "/home/Emmegi/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8/MS4%2024V%20(A048400024001)",
+      "folder_display_name": "MS4 24V (A048400024001)",
+      "folder_encoded_name": "MS4%2024V%20%28A048400024001%29"
+    },
+    {
+      "type": "file",
+      "path": "/home/Emmegi/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8/MS4%2024V%20(A048400024001)",
+      "name": "MS4_24V_A048400024001 (1).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=908eddaf7a614d68bf8191915ea77982&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=908eddaf7a614d68bf8191915ea77982&path=%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8%2FMS4%2024V%20%28A048400024001%29&size=640&name=MS4_24V_A048400024001%20%281%29.jpg&cacheSlayer=646981.3939009708",
+      "parent_folder_display_name": "MS4 24V (A048400024001)",
+      "parent_folder_encoded_name": "MS4%2024V%20%28A048400024001%29"
+    },
+    {
+      "type": "file",
+      "path": "/home/Emmegi/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8/MS4%2024V%20(A048400024001)",
+      "name": "MS4_24V_A048400024001 (2).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=908eddaf7a614d68bf8191915ea77982&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=908eddaf7a614d68bf8191915ea77982&path=%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8%2FMS4%2024V%20%28A048400024001%29&size=640&name=MS4_24V_A048400024001%20%282%29.jpg&cacheSlayer=453033.86137836013",
+      "parent_folder_display_name": "MS4 24V (A048400024001)",
+      "parent_folder_encoded_name": "MS4%2024V%20%28A048400024001%29"
+    },
+    {
+      "type": "file",
+      "path": "/home/Emmegi/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8/MS4%2024V%20(A048400024001)",
+      "name": "MS4_24V_A048400024001 (3).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=908eddaf7a614d68bf8191915ea77982&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=908eddaf7a614d68bf8191915ea77982&path=%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8%2FMS4%2024V%20%28A048400024001%29&size=640&name=MS4_24V_A048400024001%20%283%29.jpg&cacheSlayer=439325.5292331737",
+      "parent_folder_display_name": "MS4 24V (A048400024001)",
+      "parent_folder_encoded_name": "MS4%2024V%20%28A048400024001%29"
+    },
+    {
+      "type": "file",
+      "path": "/home/Emmegi/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8/MS4%2024V%20(A048400024001)",
+      "name": "MS4_24V_A048400024001 (4).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=908eddaf7a614d68bf8191915ea77982&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=908eddaf7a614d68bf8191915ea77982&path=%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8%2FMS4%2024V%20%28A048400024001%29&size=640&name=MS4_24V_A048400024001%20%284%29.jpg&cacheSlayer=592715.6900026154",
+      "parent_folder_display_name": "MS4 24V (A048400024001)",
+      "parent_folder_encoded_name": "MS4%2024V%20%28A048400024001%29"
+    },
+    {
+      "type": "file",
+      "path": "/home/Emmegi/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8/MS4%2024V%20(A048400024001)",
+      "name": "MS4_24V_A048400024001 (5).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=908eddaf7a614d68bf8191915ea77982&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=908eddaf7a614d68bf8191915ea77982&path=%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8%2FMS4%2024V%20%28A048400024001%29&size=640&name=MS4_24V_A048400024001%20%285%29.jpg&cacheSlayer=412472.19515958533",
+      "parent_folder_display_name": "MS4 24V (A048400024001)",
+      "parent_folder_encoded_name": "MS4%2024V%20%28A048400024001%29"
+    },
+    {
+      "type": "file",
+      "path": "/home/Emmegi/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8/MS4%2024V%20(A048400024001)",
+      "name": "MS4_24V_A048400024001 (6).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=908eddaf7a614d68bf8191915ea77982&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=908eddaf7a614d68bf8191915ea77982&path=%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8%2FMS4%2024V%20%28A048400024001%29&size=640&name=MS4_24V_A048400024001%20%286%29.jpg&cacheSlayer=527413.0670277784",
+      "parent_folder_display_name": "MS4 24V (A048400024001)",
+      "parent_folder_encoded_name": "MS4%2024V%20%28A048400024001%29"
+    }
+  ]
+}

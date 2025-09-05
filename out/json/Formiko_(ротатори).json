@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "generated_at": "2025-09-04T06:49:11.548038Z",
+    "brand": "Formiko (ротатори)",
+    "root_url": "https://www.myqnapcloud.com/smartshare/76f5f806np2m2676sux5w18d_78c744697jll28s01vvyza66d96gd827",
+    "max_depth": null,
+    "image_extensions": [
+      ".png",
+      ".jpg",
+      ".jpeg"
+    ],
+    "generated_at_local": "2025-09-04T08:49:11"
+  },
+  "tree": {
+    "path": "/home",
+    "folder_display_name": "home",
+    "folder_encoded_name": "home",
+    "files": [],
+    "folders": [
+      {
+        "path": "/home/CTM",
+        "folder_display_name": "CTM",
+        "folder_encoded_name": "CTM",
+        "files": [],
+        "folders": [
+          {
+            "path": "/home/CTM/%D0%9C%D1%83%D1%84%D1%82%D0%B0%20%D0%B2%20%D0%B7%D0%B1%D0%BE%D1%80%D1%96%20%D0%B7%20%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%BE%D1%8E%20%D0%B2%D1%96%D0%B4%D0%B1%D0%BE%D1%80%D1%83%20%D0%BF%D0%BE%D1%82%D1%83%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%96%20%D0%9A%D0%9E%D0%9C%20CTM%20248",
+            "folder_display_name": "Муфта в зборі з коробкою відбору потужності КОМ CTM 248",
+            "folder_encoded_name": "%D0%9C%D1%83%D1%84%D1%82%D0%B0%20%D0%B2%20%D0%B7%D0%B1%D0%BE%D1%80%D1%96%20%D0%B7%20%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%BE%D1%8E%20%D0%B2%D1%96%D0%B4%D0%B1%D0%BE%D1%80%D1%83%20%D0%BF%D0%BE%D1%82%D1%83%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%96%20%D0%9A%D0%9E%D0%9C%20CTM%20248",
+            "files": [
+              {
+                "name": "Муфта-в-зборі-з-коробкою-відбору-потужності-KOM-CTM-248.jpg",
+                "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=11a843463aba49e99edfff87f84fb360&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=11a843463aba49e99edfff87f84fb360&path=%2F%D0%9C%D1%83%D1%84%D1%82%D0%B0%20%D0%B2%20%D0%B7%D0%B1%D0%BE%D1%80%D1%96%20%D0%B7%20%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%BE%D1%8E%20%D0%B2%D1%96%D0%B4%D0%B1%D0%BE%D1%80%D1%83%20%D0%BF%D0%BE%D1%82%D1%83%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%96%20%D0%9A%D0%9E%D0%9C%20CTM%20248&size=640&name=%D0%9C%D1%83%D1%84%D1%82%D0%B0-%D0%B2-%D0%B7%D0%B1%D0%BE%D1%80%D1%96-%D0%B7-%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%BE%D1%8E-%D0%B2%D1%96%D0%B4%D0%B1%D0%BE%D1%80%D1%83-%D0%BF%D0%BE%D1%82%D1%83%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%96-KOM-CTM-248.jpg&cacheSlayer=685333.5946992529"
+              },
+              {
+                "name": "Муфта-в-зборі-з-коробкою-відбору-потужності-KOM-CTM-248_1.jpg",
+                "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=11a843463aba49e99edfff87f84fb360&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=11a843463aba49e99edfff87f84fb360&path=%2F%D0%9C%D1%83%D1%84%D1%82%D0%B0%20%D0%B2%20%D0%B7%D0%B1%D0%BE%D1%80%D1%96%20%D0%B7%20%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%BE%D1%8E%20%D0%B2%D1%96%D0%B4%D0%B1%D0%BE%D1%80%D1%83%20%D0%BF%D0%BE%D1%82%D1%83%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%96%20%D0%9A%D0%9E%D0%9C%20CTM%20248&size=640&name=%D0%9C%D1%83%D1%84%D1%82%D0%B0-%D0%B2-%D0%B7%D0%B1%D0%BE%D1%80%D1%96-%D0%B7-%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%BE%D1%8E-%D0%B2%D1%96%D0%B4%D0%B1%D0%BE%D1%80%D1%83-%D0%BF%D0%BE%D1%82%D1%83%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%96-KOM-CTM-248_1.jpg&cacheSlayer=753373.3303606994"
+              },
+              {
+                "name": "Муфта-в-зборі-з-коробкою-відбору-потужності-KOM-CTM-248_2.jpg",
+                "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=11a843463aba49e99edfff87f84fb360&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=11a843463aba49e99edfff87f84fb360&path=%2F%D0%9C%D1%83%D1%84%D1%82%D0%B0%20%D0%B2%20%D0%B7%D0%B1%D0%BE%D1%80%D1%96%20%D0%B7%20%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%BE%D1%8E%20%D0%B2%D1%96%D0%B4%D0%B1%D0%BE%D1%80%D1%83%20%D0%BF%D0%BE%D1%82%D1%83%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%96%20%D0%9A%D0%9E%D0%9C%20CTM%20248&size=640&name=%D0%9C%D1%83%D1%84%D1%82%D0%B0-%D0%B2-%D0%B7%D0%B1%D0%BE%D1%80%D1%96-%D0%B7-%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%BE%D1%8E-%D0%B2%D1%96%D0%B4%D0%B1%D0%BE%D1%80%D1%83-%D0%BF%D0%BE%D1%82%D1%83%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%96-KOM-CTM-248_2.jpg&cacheSlayer=606095.7855192359"
+              },
+              {
+                "name": "Муфта-в-зборі-з-коробкою-відбору-потужності-KOM-CTM-248_3.jpg",
+                "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=11a843463aba49e99edfff87f84fb360&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=11a843463aba49e99edfff87f84fb360&path=%2F%D0%9C%D1%83%D1%84%D1%82%D0%B0%20%D0%B2%20%D0%B7%D0%B1%D0%BE%D1%80%D1%96%20%D0%B7%20%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%BE%D1%8E%20%D0%B2%D1%96%D0%B4%D0%B1%D0%BE%D1%80%D1%83%20%D0%BF%D0%BE%D1%82%D1%83%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%96%20%D0%9A%D0%9E%D0%9C%20CTM%20248&size=640&name=%D0%9C%D1%83%D1%84%D1%82%D0%B0-%D0%B2-%D0%B7%D0%B1%D0%BE%D1%80%D1%96-%D0%B7-%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%BE%D1%8E-%D0%B2%D1%96%D0%B4%D0%B1%D0%BE%D1%80%D1%83-%D0%BF%D0%BE%D1%82%D1%83%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%96-KOM-CTM-248_3.jpg&cacheSlayer=367469.7903455322"
+              },
+              {
+                "name": "Муфта-в-зборі-з-коробкою-відбору-потужності-KOM-CTM-248_4.jpg",
+                "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=11a843463aba49e99edfff87f84fb360&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=11a843463aba49e99edfff87f84fb360&path=%2F%D0%9C%D1%83%D1%84%D1%82%D0%B0%20%D0%B2%20%D0%B7%D0%B1%D0%BE%D1%80%D1%96%20%D0%B7%20%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%BE%D1%8E%20%D0%B2%D1%96%D0%B4%D0%B1%D0%BE%D1%80%D1%83%20%D0%BF%D0%BE%D1%82%D1%83%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%96%20%D0%9A%D0%9E%D0%9C%20CTM%20248&size=640&name=%D0%9C%D1%83%D1%84%D1%82%D0%B0-%D0%B2-%D0%B7%D0%B1%D0%BE%D1%80%D1%96-%D0%B7-%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%BE%D1%8E-%D0%B2%D1%96%D0%B4%D0%B1%D0%BE%D1%80%D1%83-%D0%BF%D0%BE%D1%82%D1%83%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%96-KOM-CTM-248_4.jpg&cacheSlayer=618856.472586386"
+              },
+              {
+                "name": "Муфта-в-зборі-з-коробкою-відбору-потужності-KOM-CTM-248_5.jpg",
+                "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=11a843463aba49e99edfff87f84fb360&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=11a843463aba49e99edfff87f84fb360&path=%2F%D0%9C%D1%83%D1%84%D1%82%D0%B0%20%D0%B2%20%D0%B7%D0%B1%D0%BE%D1%80%D1%96%20%D0%B7%20%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%BE%D1%8E%20%D0%B2%D1%96%D0%B4%D0%B1%D0%BE%D1%80%D1%83%20%D0%BF%D0%BE%D1%82%D1%83%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%96%20%D0%9A%D0%9E%D0%9C%20CTM%20248&size=640&name=%D0%9C%D1%83%D1%84%D1%82%D0%B0-%D0%B2-%D0%B7%D0%B1%D0%BE%D1%80%D1%96-%D0%B7-%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%BE%D1%8E-%D0%B2%D1%96%D0%B4%D0%B1%D0%BE%D1%80%D1%83-%D0%BF%D0%BE%D1%82%D1%83%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%96-KOM-CTM-248_5.jpg&cacheSlayer=270167.88969599525"
+              }
+            ],
+            "folders": []
+          }
+        ]
+      }
+    ]
+  },
+  "flat": [
+    {
+      "type": "folder",
+      "path": "/home",
+      "folder_display_name": "home",
+      "folder_encoded_name": "home"
+    },
+    {
+      "type": "folder",
+      "path": "/home/CTM",
+      "folder_display_name": "CTM",
+      "folder_encoded_name": "CTM"
+    },
+    {
+      "type": "folder",
+      "path": "/home/CTM/%D0%9C%D1%83%D1%84%D1%82%D0%B0%20%D0%B2%20%D0%B7%D0%B1%D0%BE%D1%80%D1%96%20%D0%B7%20%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%BE%D1%8E%20%D0%B2%D1%96%D0%B4%D0%B1%D0%BE%D1%80%D1%83%20%D0%BF%D0%BE%D1%82%D1%83%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%96%20%D0%9A%D0%9E%D0%9C%20CTM%20248",
+      "folder_display_name": "Муфта в зборі з коробкою відбору потужності КОМ CTM 248",
+      "folder_encoded_name": "%D0%9C%D1%83%D1%84%D1%82%D0%B0%20%D0%B2%20%D0%B7%D0%B1%D0%BE%D1%80%D1%96%20%D0%B7%20%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%BE%D1%8E%20%D0%B2%D1%96%D0%B4%D0%B1%D0%BE%D1%80%D1%83%20%D0%BF%D0%BE%D1%82%D1%83%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%96%20%D0%9A%D0%9E%D0%9C%20CTM%20248"
+    },
+    {
+      "type": "file",
+      "path": "/home/CTM/%D0%9C%D1%83%D1%84%D1%82%D0%B0%20%D0%B2%20%D0%B7%D0%B1%D0%BE%D1%80%D1%96%20%D0%B7%20%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%BE%D1%8E%20%D0%B2%D1%96%D0%B4%D0%B1%D0%BE%D1%80%D1%83%20%D0%BF%D0%BE%D1%82%D1%83%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%96%20%D0%9A%D0%9E%D0%9C%20CTM%20248",
+      "name": "Муфта-в-зборі-з-коробкою-відбору-потужності-KOM-CTM-248.jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=11a843463aba49e99edfff87f84fb360&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=11a843463aba49e99edfff87f84fb360&path=%2F%D0%9C%D1%83%D1%84%D1%82%D0%B0%20%D0%B2%20%D0%B7%D0%B1%D0%BE%D1%80%D1%96%20%D0%B7%20%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%BE%D1%8E%20%D0%B2%D1%96%D0%B4%D0%B1%D0%BE%D1%80%D1%83%20%D0%BF%D0%BE%D1%82%D1%83%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%96%20%D0%9A%D0%9E%D0%9C%20CTM%20248&size=640&name=%D0%9C%D1%83%D1%84%D1%82%D0%B0-%D0%B2-%D0%B7%D0%B1%D0%BE%D1%80%D1%96-%D0%B7-%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%BE%D1%8E-%D0%B2%D1%96%D0%B4%D0%B1%D0%BE%D1%80%D1%83-%D0%BF%D0%BE%D1%82%D1%83%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%96-KOM-CTM-248.jpg&cacheSlayer=685333.5946992529",
+      "parent_folder_display_name": "Муфта в зборі з коробкою відбору потужності КОМ CTM 248",
+      "parent_folder_encoded_name": "%D0%9C%D1%83%D1%84%D1%82%D0%B0%20%D0%B2%20%D0%B7%D0%B1%D0%BE%D1%80%D1%96%20%D0%B7%20%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%BE%D1%8E%20%D0%B2%D1%96%D0%B4%D0%B1%D0%BE%D1%80%D1%83%20%D0%BF%D0%BE%D1%82%D1%83%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%96%20%D0%9A%D0%9E%D0%9C%20CTM%20248"
+    },
+    {
+      "type": "file",
+      "path": "/home/CTM/%D0%9C%D1%83%D1%84%D1%82%D0%B0%20%D0%B2%20%D0%B7%D0%B1%D0%BE%D1%80%D1%96%20%D0%B7%20%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%BE%D1%8E%20%D0%B2%D1%96%D0%B4%D0%B1%D0%BE%D1%80%D1%83%20%D0%BF%D0%BE%D1%82%D1%83%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%96%20%D0%9A%D0%9E%D0%9C%20CTM%20248",
+      "name": "Муфта-в-зборі-з-коробкою-відбору-потужності-KOM-CTM-248_1.jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=11a843463aba49e99edfff87f84fb360&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=11a843463aba49e99edfff87f84fb360&path=%2F%D0%9C%D1%83%D1%84%D1%82%D0%B0%20%D0%B2%20%D0%B7%D0%B1%D0%BE%D1%80%D1%96%20%D0%B7%20%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%BE%D1%8E%20%D0%B2%D1%96%D0%B4%D0%B1%D0%BE%D1%80%D1%83%20%D0%BF%D0%BE%D1%82%D1%83%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%96%20%D0%9A%D0%9E%D0%9C%20CTM%20248&size=640&name=%D0%9C%D1%83%D1%84%D1%82%D0%B0-%D0%B2-%D0%B7%D0%B1%D0%BE%D1%80%D1%96-%D0%B7-%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%BE%D1%8E-%D0%B2%D1%96%D0%B4%D0%B1%D0%BE%D1%80%D1%83-%D0%BF%D0%BE%D1%82%D1%83%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%96-KOM-CTM-248_1.jpg&cacheSlayer=753373.3303606994",
+      "parent_folder_display_name": "Муфта в зборі з коробкою відбору потужності КОМ CTM 248",
+      "parent_folder_encoded_name": "%D0%9C%D1%83%D1%84%D1%82%D0%B0%20%D0%B2%20%D0%B7%D0%B1%D0%BE%D1%80%D1%96%20%D0%B7%20%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%BE%D1%8E%20%D0%B2%D1%96%D0%B4%D0%B1%D0%BE%D1%80%D1%83%20%D0%BF%D0%BE%D1%82%D1%83%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%96%20%D0%9A%D0%9E%D0%9C%20CTM%20248"
+    },
+    {
+      "type": "file",
+      "path": "/home/CTM/%D0%9C%D1%83%D1%84%D1%82%D0%B0%20%D0%B2%20%D0%B7%D0%B1%D0%BE%D1%80%D1%96%20%D0%B7%20%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%BE%D1%8E%20%D0%B2%D1%96%D0%B4%D0%B1%D0%BE%D1%80%D1%83%20%D0%BF%D0%BE%D1%82%D1%83%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%96%20%D0%9A%D0%9E%D0%9C%20CTM%20248",
+      "name": "Муфта-в-зборі-з-коробкою-відбору-потужності-KOM-CTM-248_2.jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=11a843463aba49e99edfff87f84fb360&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=11a843463aba49e99edfff87f84fb360&path=%2F%D0%9C%D1%83%D1%84%D1%82%D0%B0%20%D0%B2%20%D0%B7%D0%B1%D0%BE%D1%80%D1%96%20%D0%B7%20%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%BE%D1%8E%20%D0%B2%D1%96%D0%B4%D0%B1%D0%BE%D1%80%D1%83%20%D0%BF%D0%BE%D1%82%D1%83%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%96%20%D0%9A%D0%9E%D0%9C%20CTM%20248&size=640&name=%D0%9C%D1%83%D1%84%D1%82%D0%B0-%D0%B2-%D0%B7%D0%B1%D0%BE%D1%80%D1%96-%D0%B7-%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%BE%D1%8E-%D0%B2%D1%96%D0%B4%D0%B1%D0%BE%D1%80%D1%83-%D0%BF%D0%BE%D1%82%D1%83%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%96-KOM-CTM-248_2.jpg&cacheSlayer=606095.7855192359",
+      "parent_folder_display_name": "Муфта в зборі з коробкою відбору потужності КОМ CTM 248",
+      "parent_folder_encoded_name": "%D0%9C%D1%83%D1%84%D1%82%D0%B0%20%D0%B2%20%D0%B7%D0%B1%D0%BE%D1%80%D1%96%20%D0%B7%20%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%BE%D1%8E%20%D0%B2%D1%96%D0%B4%D0%B1%D0%BE%D1%80%D1%83%20%D0%BF%D0%BE%D1%82%D1%83%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%96%20%D0%9A%D0%9E%D0%9C%20CTM%20248"
+    },
+    {
+      "type": "file",
+      "path": "/home/CTM/%D0%9C%D1%83%D1%84%D1%82%D0%B0%20%D0%B2%20%D0%B7%D0%B1%D0%BE%D1%80%D1%96%20%D0%B7%20%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%BE%D1%8E%20%D0%B2%D1%96%D0%B4%D0%B1%D0%BE%D1%80%D1%83%20%D0%BF%D0%BE%D1%82%D1%83%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%96%20%D0%9A%D0%9E%D0%9C%20CTM%20248",
+      "name": "Муфта-в-зборі-з-коробкою-відбору-потужності-KOM-CTM-248_3.jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=11a843463aba49e99edfff87f84fb360&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=11a843463aba49e99edfff87f84fb360&path=%2F%D0%9C%D1%83%D1%84%D1%82%D0%B0%20%D0%B2%20%D0%B7%D0%B1%D0%BE%D1%80%D1%96%20%D0%B7%20%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%BE%D1%8E%20%D0%B2%D1%96%D0%B4%D0%B1%D0%BE%D1%80%D1%83%20%D0%BF%D0%BE%D1%82%D1%83%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%96%20%D0%9A%D0%9E%D0%9C%20CTM%20248&size=640&name=%D0%9C%D1%83%D1%84%D1%82%D0%B0-%D0%B2-%D0%B7%D0%B1%D0%BE%D1%80%D1%96-%D0%B7-%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%BE%D1%8E-%D0%B2%D1%96%D0%B4%D0%B1%D0%BE%D1%80%D1%83-%D0%BF%D0%BE%D1%82%D1%83%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%96-KOM-CTM-248_3.jpg&cacheSlayer=367469.7903455322",
+      "parent_folder_display_name": "Муфта в зборі з коробкою відбору потужності КОМ CTM 248",
+      "parent_folder_encoded_name": "%D0%9C%D1%83%D1%84%D1%82%D0%B0%20%D0%B2%20%D0%B7%D0%B1%D0%BE%D1%80%D1%96%20%D0%B7%20%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%BE%D1%8E%20%D0%B2%D1%96%D0%B4%D0%B1%D0%BE%D1%80%D1%83%20%D0%BF%D0%BE%D1%82%D1%83%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%96%20%D0%9A%D0%9E%D0%9C%20CTM%20248"
+    },
+    {
+      "type": "file",
+      "path": "/home/CTM/%D0%9C%D1%83%D1%84%D1%82%D0%B0%20%D0%B2%20%D0%B7%D0%B1%D0%BE%D1%80%D1%96%20%D0%B7%20%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%BE%D1%8E%20%D0%B2%D1%96%D0%B4%D0%B1%D0%BE%D1%80%D1%83%20%D0%BF%D0%BE%D1%82%D1%83%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%96%20%D0%9A%D0%9E%D0%9C%20CTM%20248",
+      "name": "Муфта-в-зборі-з-коробкою-відбору-потужності-KOM-CTM-248_4.jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=11a843463aba49e99edfff87f84fb360&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=11a843463aba49e99edfff87f84fb360&path=%2F%D0%9C%D1%83%D1%84%D1%82%D0%B0%20%D0%B2%20%D0%B7%D0%B1%D0%BE%D1%80%D1%96%20%D0%B7%20%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%BE%D1%8E%20%D0%B2%D1%96%D0%B4%D0%B1%D0%BE%D1%80%D1%83%20%D0%BF%D0%BE%D1%82%D1%83%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%96%20%D0%9A%D0%9E%D0%9C%20CTM%20248&size=640&name=%D0%9C%D1%83%D1%84%D1%82%D0%B0-%D0%B2-%D0%B7%D0%B1%D0%BE%D1%80%D1%96-%D0%B7-%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%BE%D1%8E-%D0%B2%D1%96%D0%B4%D0%B1%D0%BE%D1%80%D1%83-%D0%BF%D0%BE%D1%82%D1%83%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%96-KOM-CTM-248_4.jpg&cacheSlayer=618856.472586386",
+      "parent_folder_display_name": "Муфта в зборі з коробкою відбору потужності КОМ CTM 248",
+      "parent_folder_encoded_name": "%D0%9C%D1%83%D1%84%D1%82%D0%B0%20%D0%B2%20%D0%B7%D0%B1%D0%BE%D1%80%D1%96%20%D0%B7%20%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%BE%D1%8E%20%D0%B2%D1%96%D0%B4%D0%B1%D0%BE%D1%80%D1%83%20%D0%BF%D0%BE%D1%82%D1%83%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%96%20%D0%9A%D0%9E%D0%9C%20CTM%20248"
+    },
+    {
+      "type": "file",
+      "path": "/home/CTM/%D0%9C%D1%83%D1%84%D1%82%D0%B0%20%D0%B2%20%D0%B7%D0%B1%D0%BE%D1%80%D1%96%20%D0%B7%20%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%BE%D1%8E%20%D0%B2%D1%96%D0%B4%D0%B1%D0%BE%D1%80%D1%83%20%D0%BF%D0%BE%D1%82%D1%83%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%96%20%D0%9A%D0%9E%D0%9C%20CTM%20248",
+      "name": "Муфта-в-зборі-з-коробкою-відбору-потужності-KOM-CTM-248_5.jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=11a843463aba49e99edfff87f84fb360&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=11a843463aba49e99edfff87f84fb360&path=%2F%D0%9C%D1%83%D1%84%D1%82%D0%B0%20%D0%B2%20%D0%B7%D0%B1%D0%BE%D1%80%D1%96%20%D0%B7%20%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%BE%D1%8E%20%D0%B2%D1%96%D0%B4%D0%B1%D0%BE%D1%80%D1%83%20%D0%BF%D0%BE%D1%82%D1%83%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%96%20%D0%9A%D0%9E%D0%9C%20CTM%20248&size=640&name=%D0%9C%D1%83%D1%84%D1%82%D0%B0-%D0%B2-%D0%B7%D0%B1%D0%BE%D1%80%D1%96-%D0%B7-%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%BE%D1%8E-%D0%B2%D1%96%D0%B4%D0%B1%D0%BE%D1%80%D1%83-%D0%BF%D0%BE%D1%82%D1%83%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%96-KOM-CTM-248_5.jpg&cacheSlayer=270167.88969599525",
+      "parent_folder_display_name": "Муфта в зборі з коробкою відбору потужності КОМ CTM 248",
+      "parent_folder_encoded_name": "%D0%9C%D1%83%D1%84%D1%82%D0%B0%20%D0%B2%20%D0%B7%D0%B1%D0%BE%D1%80%D1%96%20%D0%B7%20%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%BE%D1%8E%20%D0%B2%D1%96%D0%B4%D0%B1%D0%BE%D1%80%D1%83%20%D0%BF%D0%BE%D1%82%D1%83%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%96%20%D0%9A%D0%9E%D0%9C%20CTM%20248"
+    }
+  ]
+}

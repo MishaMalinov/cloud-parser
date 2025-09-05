@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "generated_at": "2025-09-04T06:52:07.229450Z",
+    "brand": "Frasma",
+    "root_url": "https://www.myqnapcloud.com/smartshare/76f5f806np2m2676sux5w18d_4872f5l6lk002nq9q3725zwxz1333dfk",
+    "max_depth": null,
+    "image_extensions": [
+      ".png",
+      ".jpg",
+      ".jpeg"
+    ],
+    "generated_at_local": "2025-09-04T08:52:07"
+  },
+  "tree": {
+    "path": "/home",
+    "folder_display_name": "home",
+    "folder_encoded_name": "home",
+    "files": [],
+    "folders": [
+      {
+        "path": "/home/Frasma",
+        "folder_display_name": "Frasma",
+        "folder_encoded_name": "Frasma",
+        "files": [],
+        "folders": [
+          {
+            "path": "/home/Frasma/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8",
+            "folder_display_name": "Теплообмінники",
+            "folder_encoded_name": "%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8",
+            "files": [],
+            "folders": [
+              {
+                "path": "/home/Frasma/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%206SC1002C",
+                "folder_display_name": "Теплообмінник 6SC1002C",
+                "folder_encoded_name": "%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%206SC1002C",
+                "files": [
+                  {
+                    "name": "6SC1002C (1).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=8193b4f3db434ac8a0379eaab0109abf&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=8193b4f3db434ac8a0379eaab0109abf&path=%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%206SC1002C&size=640&name=6SC1002C%20%281%29.jpg&cacheSlayer=145586.87120127512"
+                  },
+                  {
+                    "name": "6SC1002C (2).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=8193b4f3db434ac8a0379eaab0109abf&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=8193b4f3db434ac8a0379eaab0109abf&path=%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%206SC1002C&size=640&name=6SC1002C%20%282%29.jpg&cacheSlayer=684901.6045442586"
+                  },
+                  {
+                    "name": "6SC1002C (3).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=8193b4f3db434ac8a0379eaab0109abf&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=8193b4f3db434ac8a0379eaab0109abf&path=%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%206SC1002C&size=640&name=6SC1002C%20%283%29.jpg&cacheSlayer=998305.7330831251"
+                  },
+                  {
+                    "name": "6SC1002C (4).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=8193b4f3db434ac8a0379eaab0109abf&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=8193b4f3db434ac8a0379eaab0109abf&path=%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%206SC1002C&size=640&name=6SC1002C%20%284%29.jpg&cacheSlayer=953092.0550328108"
+                  }
+                ],
+                "folders": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "flat": [
+    {
+      "type": "folder",
+      "path": "/home",
+      "folder_display_name": "home",
+      "folder_encoded_name": "home"
+    },
+    {
+      "type": "folder",
+      "path": "/home/Frasma",
+      "folder_display_name": "Frasma",
+      "folder_encoded_name": "Frasma"
+    },
+    {
+      "type": "folder",
+      "path": "/home/Frasma/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8",
+      "folder_display_name": "Теплообмінники",
+      "folder_encoded_name": "%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "type": "folder",
+      "path": "/home/Frasma/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%206SC1002C",
+      "folder_display_name": "Теплообмінник 6SC1002C",
+      "folder_encoded_name": "%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%206SC1002C"
+    },
+    {
+      "type": "file",
+      "path": "/home/Frasma/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%206SC1002C",
+      "name": "6SC1002C (1).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=8193b4f3db434ac8a0379eaab0109abf&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=8193b4f3db434ac8a0379eaab0109abf&path=%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%206SC1002C&size=640&name=6SC1002C%20%281%29.jpg&cacheSlayer=145586.87120127512",
+      "parent_folder_display_name": "Теплообмінник 6SC1002C",
+      "parent_folder_encoded_name": "%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%206SC1002C"
+    },
+    {
+      "type": "file",
+      "path": "/home/Frasma/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%206SC1002C",
+      "name": "6SC1002C (2).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=8193b4f3db434ac8a0379eaab0109abf&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=8193b4f3db434ac8a0379eaab0109abf&path=%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%206SC1002C&size=640&name=6SC1002C%20%282%29.jpg&cacheSlayer=684901.6045442586",
+      "parent_folder_display_name": "Теплообмінник 6SC1002C",
+      "parent_folder_encoded_name": "%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%206SC1002C"
+    },
+    {
+      "type": "file",
+      "path": "/home/Frasma/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%206SC1002C",
+      "name": "6SC1002C (3).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=8193b4f3db434ac8a0379eaab0109abf&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=8193b4f3db434ac8a0379eaab0109abf&path=%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%206SC1002C&size=640&name=6SC1002C%20%283%29.jpg&cacheSlayer=998305.7330831251",
+      "parent_folder_display_name": "Теплообмінник 6SC1002C",
+      "parent_folder_encoded_name": "%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%206SC1002C"
+    },
+    {
+      "type": "file",
+      "path": "/home/Frasma/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%206SC1002C",
+      "name": "6SC1002C (4).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=8193b4f3db434ac8a0379eaab0109abf&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=8193b4f3db434ac8a0379eaab0109abf&path=%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8%2F%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%206SC1002C&size=640&name=6SC1002C%20%284%29.jpg&cacheSlayer=953092.0550328108",
+      "parent_folder_display_name": "Теплообмінник 6SC1002C",
+      "parent_folder_encoded_name": "%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D0%BD%D0%B8%D0%BA%206SC1002C"
+    }
+  ]
+}

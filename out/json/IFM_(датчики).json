@@ -1,0 +1,1116 @@
+{
+  "meta": {
+    "generated_at": "2025-09-04T08:29:30.377626Z",
+    "brand": "IFM (датчики)",
+    "root_url": "https://www.myqnapcloud.com/smartshare/76f5f806np2m2676sux5w18d_fee6ji53jm912qtr00v5606a0d2bf03g",
+    "max_depth": null,
+    "image_extensions": [
+      ".png",
+      ".jpg",
+      ".jpeg"
+    ],
+    "generated_at_local": "2025-09-04T10:29:30"
+  },
+  "tree": {
+    "path": "/home",
+    "folder_display_name": "home",
+    "folder_encoded_name": "home",
+    "files": [],
+    "folders": [
+      {
+        "path": "/home/IFM",
+        "folder_display_name": "IFM",
+        "folder_encoded_name": "IFM",
+        "files": [],
+        "folders": [
+          {
+            "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8",
+            "folder_display_name": "Датчики",
+            "folder_encoded_name": "%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8",
+            "files": [],
+            "folders": [
+              {
+                "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK5520",
+                "folder_display_name": "PK5520",
+                "folder_encoded_name": "PK5520",
+                "files": [
+                  {
+                    "name": "PK5520 (1).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK5520&size=640&name=PK5520%20%281%29.jpg&cacheSlayer=733269.2031639467"
+                  },
+                  {
+                    "name": "PK5520 (2).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK5520&size=640&name=PK5520%20%282%29.jpg&cacheSlayer=299945.75575241214"
+                  },
+                  {
+                    "name": "PK5520 (3).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK5520&size=640&name=PK5520%20%283%29.jpg&cacheSlayer=540361.3434970973"
+                  },
+                  {
+                    "name": "PK5520 (4).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK5520&size=640&name=PK5520%20%284%29.jpg&cacheSlayer=588327.2066728263"
+                  },
+                  {
+                    "name": "PK5520 (5).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK5520&size=640&name=PK5520%20%285%29.jpg&cacheSlayer=416577.9903657306"
+                  },
+                  {
+                    "name": "PK5520 (6).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK5520&size=640&name=PK5520%20%286%29.jpg&cacheSlayer=528426.7046931798"
+                  }
+                ],
+                "folders": []
+              },
+              {
+                "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK5521",
+                "folder_display_name": "PK5521",
+                "folder_encoded_name": "PK5521",
+                "files": [
+                  {
+                    "name": "PK5521 (1).JPG",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK5521&size=640&name=PK5521%20%281%29.JPG&cacheSlayer=475619.265868743"
+                  },
+                  {
+                    "name": "PK5521 (2).JPG",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK5521&size=640&name=PK5521%20%282%29.JPG&cacheSlayer=693301.5957340423"
+                  },
+                  {
+                    "name": "PK5521 (3).JPG",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK5521&size=640&name=PK5521%20%283%29.JPG&cacheSlayer=151728.62187650148"
+                  }
+                ],
+                "folders": []
+              },
+              {
+                "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK5522",
+                "folder_display_name": "PK5522",
+                "folder_encoded_name": "PK5522",
+                "files": [
+                  {
+                    "name": "PK5522 (1).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK5522&size=640&name=PK5522%20%281%29.jpg&cacheSlayer=783871.4565152581"
+                  },
+                  {
+                    "name": "PK5522 (2).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK5522&size=640&name=PK5522%20%282%29.jpg&cacheSlayer=813247.3520471284"
+                  },
+                  {
+                    "name": "PK5522 (3).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK5522&size=640&name=PK5522%20%283%29.jpg&cacheSlayer=602737.1300583705"
+                  },
+                  {
+                    "name": "PK5522 (4).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK5522&size=640&name=PK5522%20%284%29.jpg&cacheSlayer=165795.13254265964"
+                  },
+                  {
+                    "name": "PK5522 (5).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK5522&size=640&name=PK5522%20%285%29.jpg&cacheSlayer=174034.31082616482"
+                  },
+                  {
+                    "name": "PK5522 (6).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK5522&size=640&name=PK5522%20%286%29.jpg&cacheSlayer=859761.9360759212"
+                  }
+                ],
+                "folders": []
+              },
+              {
+                "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK5523",
+                "folder_display_name": "PK5523",
+                "folder_encoded_name": "PK5523",
+                "files": [
+                  {
+                    "name": "PK5523_1.jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK5523&size=640&name=PK5523_1.jpg&cacheSlayer=891236.0764746612"
+                  },
+                  {
+                    "name": "PK5523_2.jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK5523&size=640&name=PK5523_2.jpg&cacheSlayer=465410.1501588821"
+                  },
+                  {
+                    "name": "PK5523_3.jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK5523&size=640&name=PK5523_3.jpg&cacheSlayer=591934.8022513385"
+                  },
+                  {
+                    "name": "PK5523_4.jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK5523&size=640&name=PK5523_4.jpg&cacheSlayer=684684.3137957171"
+                  },
+                  {
+                    "name": "PK5523_5.jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK5523&size=640&name=PK5523_5.jpg&cacheSlayer=203734.99994744826"
+                  }
+                ],
+                "folders": []
+              },
+              {
+                "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK6520",
+                "folder_display_name": "PK6520",
+                "folder_encoded_name": "PK6520",
+                "files": [
+                  {
+                    "name": "PK6520 (1).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK6520&size=640&name=PK6520%20%281%29.jpg&cacheSlayer=586924.9166580142"
+                  },
+                  {
+                    "name": "PK6520 (2).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK6520&size=640&name=PK6520%20%282%29.jpg&cacheSlayer=38244.446589475345"
+                  },
+                  {
+                    "name": "PK6520 (3).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK6520&size=640&name=PK6520%20%283%29.jpg&cacheSlayer=104151.90697524324"
+                  },
+                  {
+                    "name": "PK6520 (4).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK6520&size=640&name=PK6520%20%284%29.jpg&cacheSlayer=488132.6479764653"
+                  },
+                  {
+                    "name": "PK6520 (5).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK6520&size=640&name=PK6520%20%285%29.jpg&cacheSlayer=835144.1265909009"
+                  }
+                ],
+                "folders": []
+              },
+              {
+                "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK6521",
+                "folder_display_name": "PK6521",
+                "folder_encoded_name": "PK6521",
+                "files": [
+                  {
+                    "name": "PK6521 (1).JPG",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK6521&size=640&name=PK6521%20%281%29.JPG&cacheSlayer=382916.18751256715"
+                  },
+                  {
+                    "name": "PK6521 (2).JPG",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK6521&size=640&name=PK6521%20%282%29.JPG&cacheSlayer=594880.3646033789"
+                  },
+                  {
+                    "name": "PK6521 (3).JPG",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK6521&size=640&name=PK6521%20%283%29.JPG&cacheSlayer=87990.51343914543"
+                  },
+                  {
+                    "name": "PK6521 (4).JPG",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK6521&size=640&name=PK6521%20%284%29.JPG&cacheSlayer=794744.2856248331"
+                  }
+                ],
+                "folders": []
+              },
+              {
+                "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK6532",
+                "folder_display_name": "PK6532",
+                "folder_encoded_name": "PK6532",
+                "files": [
+                  {
+                    "name": "PK6532 (1).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK6532&size=640&name=PK6532%20%281%29.jpg&cacheSlayer=289622.8543650118"
+                  },
+                  {
+                    "name": "PK6532 (2).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK6532&size=640&name=PK6532%20%282%29.jpg&cacheSlayer=187693.6784757709"
+                  },
+                  {
+                    "name": "PK6532 (3).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK6532&size=640&name=PK6532%20%283%29.jpg&cacheSlayer=7990.05857623769"
+                  },
+                  {
+                    "name": "PK6532 (4).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK6532&size=640&name=PK6532%20%284%29.jpg&cacheSlayer=523709.8578778896"
+                  },
+                  {
+                    "name": "PK6532 (5).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK6532&size=640&name=PK6532%20%285%29.jpg&cacheSlayer=472330.8072144782"
+                  },
+                  {
+                    "name": "PK6532 (6).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK6532&size=640&name=PK6532%20%286%29.jpg&cacheSlayer=172430.3750659738"
+                  },
+                  {
+                    "name": "PK6532 (7).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK6532&size=640&name=PK6532%20%287%29.jpg&cacheSlayer=122915.18399748213"
+                  }
+                ],
+                "folders": []
+              },
+              {
+                "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK7521",
+                "folder_display_name": "PK7521",
+                "folder_encoded_name": "PK7521",
+                "files": [
+                  {
+                    "name": "PK7521 (1).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK7521&size=640&name=PK7521%20%281%29.jpg&cacheSlayer=484618.93916258705"
+                  },
+                  {
+                    "name": "PK7521 (2).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK7521&size=640&name=PK7521%20%282%29.jpg&cacheSlayer=490121.9746101445"
+                  },
+                  {
+                    "name": "PK7521 (3).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK7521&size=640&name=PK7521%20%283%29.jpg&cacheSlayer=409184.41867196385"
+                  },
+                  {
+                    "name": "PK7521 (4).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK7521&size=640&name=PK7521%20%284%29.jpg&cacheSlayer=932638.4226896618"
+                  },
+                  {
+                    "name": "PK7521 (5).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK7521&size=640&name=PK7521%20%285%29.jpg&cacheSlayer=313761.8109246438"
+                  },
+                  {
+                    "name": "PK7521 (6).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK7521&size=640&name=PK7521%20%286%29.jpg&cacheSlayer=397835.83362278563"
+                  }
+                ],
+                "folders": []
+              },
+              {
+                "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PT5400",
+                "folder_display_name": "PT5400",
+                "folder_encoded_name": "PT5400",
+                "files": [
+                  {
+                    "name": "PT5400 (1).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPT5400&size=640&name=PT5400%20%281%29.jpg&cacheSlayer=869794.5974433954"
+                  },
+                  {
+                    "name": "PT5400 (2).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPT5400&size=640&name=PT5400%20%282%29.jpg&cacheSlayer=211891.95536972926"
+                  },
+                  {
+                    "name": "PT5400 (3).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPT5400&size=640&name=PT5400%20%283%29.jpg&cacheSlayer=899031.2883157157"
+                  },
+                  {
+                    "name": "PT5400 (4).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPT5400&size=640&name=PT5400%20%284%29.jpg&cacheSlayer=592800.8890946596"
+                  },
+                  {
+                    "name": "PT5400 (5).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPT5400&size=640&name=PT5400%20%285%29.jpg&cacheSlayer=607684.9598723837"
+                  }
+                ],
+                "folders": []
+              },
+              {
+                "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PT5401",
+                "folder_display_name": "PT5401",
+                "folder_encoded_name": "PT5401",
+                "files": [
+                  {
+                    "name": "PT5401 (1).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPT5401&size=640&name=PT5401%20%281%29.jpg&cacheSlayer=832895.6185875064"
+                  },
+                  {
+                    "name": "PT5401 (2).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPT5401&size=640&name=PT5401%20%282%29.jpg&cacheSlayer=844999.0260276377"
+                  },
+                  {
+                    "name": "PT5401 (3).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPT5401&size=640&name=PT5401%20%283%29.jpg&cacheSlayer=401709.7259621407"
+                  },
+                  {
+                    "name": "PT5401 (4).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPT5401&size=640&name=PT5401%20%284%29.jpg&cacheSlayer=671020.3984985735"
+                  },
+                  {
+                    "name": "PT5401 (5).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPT5401&size=640&name=PT5401%20%285%29.jpg&cacheSlayer=872146.6149816768"
+                  },
+                  {
+                    "name": "PT5401 (6).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPT5401&size=640&name=PT5401%20%286%29.jpg&cacheSlayer=130303.89968728296"
+                  },
+                  {
+                    "name": "PT5401 (7).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPT5401&size=640&name=PT5401%20%287%29.jpg&cacheSlayer=887916.5785918395"
+                  }
+                ],
+                "folders": []
+              },
+              {
+                "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/SBY333",
+                "folder_display_name": "SBY333",
+                "folder_encoded_name": "SBY333",
+                "files": [
+                  {
+                    "name": "SBY333 (1).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FSBY333&size=640&name=SBY333%20%281%29.jpg&cacheSlayer=810462.6002878186"
+                  },
+                  {
+                    "name": "SBY333 (2).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FSBY333&size=640&name=SBY333%20%282%29.jpg&cacheSlayer=711525.2735428131"
+                  },
+                  {
+                    "name": "SBY333 (3).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FSBY333&size=640&name=SBY333%20%283%29.jpg&cacheSlayer=112965.75037625723"
+                  },
+                  {
+                    "name": "SBY333 (4).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FSBY333&size=640&name=SBY333%20%284%29.jpg&cacheSlayer=198878.71674329226"
+                  },
+                  {
+                    "name": "SBY333 (5).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FSBY333&size=640&name=SBY333%20%285%29.jpg&cacheSlayer=620076.9770651929"
+                  },
+                  {
+                    "name": "SBY333 (6).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FSBY333&size=640&name=SBY333%20%286%29.jpg&cacheSlayer=813848.1956209961"
+                  },
+                  {
+                    "name": "SBY333 (7).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FSBY333&size=640&name=SBY333%20%287%29.jpg&cacheSlayer=918637.591324949"
+                  },
+                  {
+                    "name": "SBY333 (8).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FSBY333&size=640&name=SBY333%20%288%29.jpg&cacheSlayer=996608.229503449"
+                  },
+                  {
+                    "name": "SBY333 (9).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FSBY333&size=640&name=SBY333%20%289%29.jpg&cacheSlayer=246027.96646985802"
+                  }
+                ],
+                "folders": []
+              },
+              {
+                "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/TA2405",
+                "folder_display_name": "TA2405",
+                "folder_encoded_name": "TA2405",
+                "files": [
+                  {
+                    "name": "TA2405 (1).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FTA2405&size=640&name=TA2405%20%281%29.jpg&cacheSlayer=157026.5190248742"
+                  },
+                  {
+                    "name": "TA2405 (2).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FTA2405&size=640&name=TA2405%20%282%29.jpg&cacheSlayer=429399.66690842446"
+                  },
+                  {
+                    "name": "TA2405 (3).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FTA2405&size=640&name=TA2405%20%283%29.jpg&cacheSlayer=848538.2333859584"
+                  },
+                  {
+                    "name": "TA2405 (4).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FTA2405&size=640&name=TA2405%20%284%29.jpg&cacheSlayer=654311.9043713666"
+                  },
+                  {
+                    "name": "TA2405 (5).jpg",
+                    "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FTA2405&size=640&name=TA2405%20%285%29.jpg&cacheSlayer=403704.41688016243"
+                  }
+                ],
+                "folders": []
+              }
+            ]
+          },
+          {
+            "path": "/home/IFM/%D0%A0%D0%BE%D0%B7'%D1%94%D0%BC%D0%B8",
+            "folder_display_name": "Роз'єми",
+            "folder_encoded_name": "%D0%A0%D0%BE%D0%B7%27%D1%94%D0%BC%D0%B8",
+            "files": [
+              {
+                "name": "EVC004 (1).jpg",
+                "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%A0%D0%BE%D0%B7%27%D1%94%D0%BC%D0%B8&size=640&name=EVC004%20%281%29.jpg&cacheSlayer=787092.5709855104"
+              },
+              {
+                "name": "EVC004 (2).jpg",
+                "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%A0%D0%BE%D0%B7%27%D1%94%D0%BC%D0%B8&size=640&name=EVC004%20%282%29.jpg&cacheSlayer=472953.1813443989"
+              },
+              {
+                "name": "EVC004 (3).jpg",
+                "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%A0%D0%BE%D0%B7%27%D1%94%D0%BC%D0%B8&size=640&name=EVC004%20%283%29.jpg&cacheSlayer=994785.2263139015"
+              },
+              {
+                "name": "EVC004 (4).jpg",
+                "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%A0%D0%BE%D0%B7%27%D1%94%D0%BC%D0%B8&size=640&name=EVC004%20%284%29.jpg&cacheSlayer=799345.4090773062"
+              },
+              {
+                "name": "EVC004 (5).jpg",
+                "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%A0%D0%BE%D0%B7%27%D1%94%D0%BC%D0%B8&size=640&name=EVC004%20%285%29.jpg&cacheSlayer=798613.1899418236"
+              }
+            ],
+            "folders": []
+          }
+        ]
+      }
+    ]
+  },
+  "flat": [
+    {
+      "type": "folder",
+      "path": "/home",
+      "folder_display_name": "home",
+      "folder_encoded_name": "home"
+    },
+    {
+      "type": "folder",
+      "path": "/home/IFM",
+      "folder_display_name": "IFM",
+      "folder_encoded_name": "IFM"
+    },
+    {
+      "type": "folder",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8",
+      "folder_display_name": "Датчики",
+      "folder_encoded_name": "%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "type": "folder",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK5520",
+      "folder_display_name": "PK5520",
+      "folder_encoded_name": "PK5520"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK5520",
+      "name": "PK5520 (1).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK5520&size=640&name=PK5520%20%281%29.jpg&cacheSlayer=733269.2031639467",
+      "parent_folder_display_name": "PK5520",
+      "parent_folder_encoded_name": "PK5520"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK5520",
+      "name": "PK5520 (2).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK5520&size=640&name=PK5520%20%282%29.jpg&cacheSlayer=299945.75575241214",
+      "parent_folder_display_name": "PK5520",
+      "parent_folder_encoded_name": "PK5520"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK5520",
+      "name": "PK5520 (3).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK5520&size=640&name=PK5520%20%283%29.jpg&cacheSlayer=540361.3434970973",
+      "parent_folder_display_name": "PK5520",
+      "parent_folder_encoded_name": "PK5520"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK5520",
+      "name": "PK5520 (4).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK5520&size=640&name=PK5520%20%284%29.jpg&cacheSlayer=588327.2066728263",
+      "parent_folder_display_name": "PK5520",
+      "parent_folder_encoded_name": "PK5520"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK5520",
+      "name": "PK5520 (5).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK5520&size=640&name=PK5520%20%285%29.jpg&cacheSlayer=416577.9903657306",
+      "parent_folder_display_name": "PK5520",
+      "parent_folder_encoded_name": "PK5520"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK5520",
+      "name": "PK5520 (6).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK5520&size=640&name=PK5520%20%286%29.jpg&cacheSlayer=528426.7046931798",
+      "parent_folder_display_name": "PK5520",
+      "parent_folder_encoded_name": "PK5520"
+    },
+    {
+      "type": "folder",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK5521",
+      "folder_display_name": "PK5521",
+      "folder_encoded_name": "PK5521"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK5521",
+      "name": "PK5521 (1).JPG",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK5521&size=640&name=PK5521%20%281%29.JPG&cacheSlayer=475619.265868743",
+      "parent_folder_display_name": "PK5521",
+      "parent_folder_encoded_name": "PK5521"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK5521",
+      "name": "PK5521 (2).JPG",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK5521&size=640&name=PK5521%20%282%29.JPG&cacheSlayer=693301.5957340423",
+      "parent_folder_display_name": "PK5521",
+      "parent_folder_encoded_name": "PK5521"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK5521",
+      "name": "PK5521 (3).JPG",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK5521&size=640&name=PK5521%20%283%29.JPG&cacheSlayer=151728.62187650148",
+      "parent_folder_display_name": "PK5521",
+      "parent_folder_encoded_name": "PK5521"
+    },
+    {
+      "type": "folder",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK5522",
+      "folder_display_name": "PK5522",
+      "folder_encoded_name": "PK5522"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK5522",
+      "name": "PK5522 (1).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK5522&size=640&name=PK5522%20%281%29.jpg&cacheSlayer=783871.4565152581",
+      "parent_folder_display_name": "PK5522",
+      "parent_folder_encoded_name": "PK5522"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK5522",
+      "name": "PK5522 (2).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK5522&size=640&name=PK5522%20%282%29.jpg&cacheSlayer=813247.3520471284",
+      "parent_folder_display_name": "PK5522",
+      "parent_folder_encoded_name": "PK5522"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK5522",
+      "name": "PK5522 (3).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK5522&size=640&name=PK5522%20%283%29.jpg&cacheSlayer=602737.1300583705",
+      "parent_folder_display_name": "PK5522",
+      "parent_folder_encoded_name": "PK5522"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK5522",
+      "name": "PK5522 (4).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK5522&size=640&name=PK5522%20%284%29.jpg&cacheSlayer=165795.13254265964",
+      "parent_folder_display_name": "PK5522",
+      "parent_folder_encoded_name": "PK5522"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK5522",
+      "name": "PK5522 (5).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK5522&size=640&name=PK5522%20%285%29.jpg&cacheSlayer=174034.31082616482",
+      "parent_folder_display_name": "PK5522",
+      "parent_folder_encoded_name": "PK5522"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK5522",
+      "name": "PK5522 (6).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK5522&size=640&name=PK5522%20%286%29.jpg&cacheSlayer=859761.9360759212",
+      "parent_folder_display_name": "PK5522",
+      "parent_folder_encoded_name": "PK5522"
+    },
+    {
+      "type": "folder",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK5523",
+      "folder_display_name": "PK5523",
+      "folder_encoded_name": "PK5523"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK5523",
+      "name": "PK5523_1.jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK5523&size=640&name=PK5523_1.jpg&cacheSlayer=891236.0764746612",
+      "parent_folder_display_name": "PK5523",
+      "parent_folder_encoded_name": "PK5523"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK5523",
+      "name": "PK5523_2.jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK5523&size=640&name=PK5523_2.jpg&cacheSlayer=465410.1501588821",
+      "parent_folder_display_name": "PK5523",
+      "parent_folder_encoded_name": "PK5523"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK5523",
+      "name": "PK5523_3.jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK5523&size=640&name=PK5523_3.jpg&cacheSlayer=591934.8022513385",
+      "parent_folder_display_name": "PK5523",
+      "parent_folder_encoded_name": "PK5523"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK5523",
+      "name": "PK5523_4.jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK5523&size=640&name=PK5523_4.jpg&cacheSlayer=684684.3137957171",
+      "parent_folder_display_name": "PK5523",
+      "parent_folder_encoded_name": "PK5523"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK5523",
+      "name": "PK5523_5.jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK5523&size=640&name=PK5523_5.jpg&cacheSlayer=203734.99994744826",
+      "parent_folder_display_name": "PK5523",
+      "parent_folder_encoded_name": "PK5523"
+    },
+    {
+      "type": "folder",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK6520",
+      "folder_display_name": "PK6520",
+      "folder_encoded_name": "PK6520"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK6520",
+      "name": "PK6520 (1).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK6520&size=640&name=PK6520%20%281%29.jpg&cacheSlayer=586924.9166580142",
+      "parent_folder_display_name": "PK6520",
+      "parent_folder_encoded_name": "PK6520"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK6520",
+      "name": "PK6520 (2).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK6520&size=640&name=PK6520%20%282%29.jpg&cacheSlayer=38244.446589475345",
+      "parent_folder_display_name": "PK6520",
+      "parent_folder_encoded_name": "PK6520"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK6520",
+      "name": "PK6520 (3).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK6520&size=640&name=PK6520%20%283%29.jpg&cacheSlayer=104151.90697524324",
+      "parent_folder_display_name": "PK6520",
+      "parent_folder_encoded_name": "PK6520"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK6520",
+      "name": "PK6520 (4).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK6520&size=640&name=PK6520%20%284%29.jpg&cacheSlayer=488132.6479764653",
+      "parent_folder_display_name": "PK6520",
+      "parent_folder_encoded_name": "PK6520"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK6520",
+      "name": "PK6520 (5).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK6520&size=640&name=PK6520%20%285%29.jpg&cacheSlayer=835144.1265909009",
+      "parent_folder_display_name": "PK6520",
+      "parent_folder_encoded_name": "PK6520"
+    },
+    {
+      "type": "folder",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK6521",
+      "folder_display_name": "PK6521",
+      "folder_encoded_name": "PK6521"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK6521",
+      "name": "PK6521 (1).JPG",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK6521&size=640&name=PK6521%20%281%29.JPG&cacheSlayer=382916.18751256715",
+      "parent_folder_display_name": "PK6521",
+      "parent_folder_encoded_name": "PK6521"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK6521",
+      "name": "PK6521 (2).JPG",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK6521&size=640&name=PK6521%20%282%29.JPG&cacheSlayer=594880.3646033789",
+      "parent_folder_display_name": "PK6521",
+      "parent_folder_encoded_name": "PK6521"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK6521",
+      "name": "PK6521 (3).JPG",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK6521&size=640&name=PK6521%20%283%29.JPG&cacheSlayer=87990.51343914543",
+      "parent_folder_display_name": "PK6521",
+      "parent_folder_encoded_name": "PK6521"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK6521",
+      "name": "PK6521 (4).JPG",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK6521&size=640&name=PK6521%20%284%29.JPG&cacheSlayer=794744.2856248331",
+      "parent_folder_display_name": "PK6521",
+      "parent_folder_encoded_name": "PK6521"
+    },
+    {
+      "type": "folder",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK6532",
+      "folder_display_name": "PK6532",
+      "folder_encoded_name": "PK6532"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK6532",
+      "name": "PK6532 (1).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK6532&size=640&name=PK6532%20%281%29.jpg&cacheSlayer=289622.8543650118",
+      "parent_folder_display_name": "PK6532",
+      "parent_folder_encoded_name": "PK6532"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK6532",
+      "name": "PK6532 (2).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK6532&size=640&name=PK6532%20%282%29.jpg&cacheSlayer=187693.6784757709",
+      "parent_folder_display_name": "PK6532",
+      "parent_folder_encoded_name": "PK6532"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK6532",
+      "name": "PK6532 (3).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK6532&size=640&name=PK6532%20%283%29.jpg&cacheSlayer=7990.05857623769",
+      "parent_folder_display_name": "PK6532",
+      "parent_folder_encoded_name": "PK6532"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK6532",
+      "name": "PK6532 (4).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK6532&size=640&name=PK6532%20%284%29.jpg&cacheSlayer=523709.8578778896",
+      "parent_folder_display_name": "PK6532",
+      "parent_folder_encoded_name": "PK6532"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK6532",
+      "name": "PK6532 (5).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK6532&size=640&name=PK6532%20%285%29.jpg&cacheSlayer=472330.8072144782",
+      "parent_folder_display_name": "PK6532",
+      "parent_folder_encoded_name": "PK6532"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK6532",
+      "name": "PK6532 (6).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK6532&size=640&name=PK6532%20%286%29.jpg&cacheSlayer=172430.3750659738",
+      "parent_folder_display_name": "PK6532",
+      "parent_folder_encoded_name": "PK6532"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK6532",
+      "name": "PK6532 (7).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK6532&size=640&name=PK6532%20%287%29.jpg&cacheSlayer=122915.18399748213",
+      "parent_folder_display_name": "PK6532",
+      "parent_folder_encoded_name": "PK6532"
+    },
+    {
+      "type": "folder",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK7521",
+      "folder_display_name": "PK7521",
+      "folder_encoded_name": "PK7521"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK7521",
+      "name": "PK7521 (1).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK7521&size=640&name=PK7521%20%281%29.jpg&cacheSlayer=484618.93916258705",
+      "parent_folder_display_name": "PK7521",
+      "parent_folder_encoded_name": "PK7521"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK7521",
+      "name": "PK7521 (2).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK7521&size=640&name=PK7521%20%282%29.jpg&cacheSlayer=490121.9746101445",
+      "parent_folder_display_name": "PK7521",
+      "parent_folder_encoded_name": "PK7521"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK7521",
+      "name": "PK7521 (3).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK7521&size=640&name=PK7521%20%283%29.jpg&cacheSlayer=409184.41867196385",
+      "parent_folder_display_name": "PK7521",
+      "parent_folder_encoded_name": "PK7521"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK7521",
+      "name": "PK7521 (4).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK7521&size=640&name=PK7521%20%284%29.jpg&cacheSlayer=932638.4226896618",
+      "parent_folder_display_name": "PK7521",
+      "parent_folder_encoded_name": "PK7521"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK7521",
+      "name": "PK7521 (5).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK7521&size=640&name=PK7521%20%285%29.jpg&cacheSlayer=313761.8109246438",
+      "parent_folder_display_name": "PK7521",
+      "parent_folder_encoded_name": "PK7521"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PK7521",
+      "name": "PK7521 (6).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPK7521&size=640&name=PK7521%20%286%29.jpg&cacheSlayer=397835.83362278563",
+      "parent_folder_display_name": "PK7521",
+      "parent_folder_encoded_name": "PK7521"
+    },
+    {
+      "type": "folder",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PT5400",
+      "folder_display_name": "PT5400",
+      "folder_encoded_name": "PT5400"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PT5400",
+      "name": "PT5400 (1).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPT5400&size=640&name=PT5400%20%281%29.jpg&cacheSlayer=869794.5974433954",
+      "parent_folder_display_name": "PT5400",
+      "parent_folder_encoded_name": "PT5400"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PT5400",
+      "name": "PT5400 (2).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPT5400&size=640&name=PT5400%20%282%29.jpg&cacheSlayer=211891.95536972926",
+      "parent_folder_display_name": "PT5400",
+      "parent_folder_encoded_name": "PT5400"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PT5400",
+      "name": "PT5400 (3).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPT5400&size=640&name=PT5400%20%283%29.jpg&cacheSlayer=899031.2883157157",
+      "parent_folder_display_name": "PT5400",
+      "parent_folder_encoded_name": "PT5400"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PT5400",
+      "name": "PT5400 (4).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPT5400&size=640&name=PT5400%20%284%29.jpg&cacheSlayer=592800.8890946596",
+      "parent_folder_display_name": "PT5400",
+      "parent_folder_encoded_name": "PT5400"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PT5400",
+      "name": "PT5400 (5).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPT5400&size=640&name=PT5400%20%285%29.jpg&cacheSlayer=607684.9598723837",
+      "parent_folder_display_name": "PT5400",
+      "parent_folder_encoded_name": "PT5400"
+    },
+    {
+      "type": "folder",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PT5401",
+      "folder_display_name": "PT5401",
+      "folder_encoded_name": "PT5401"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PT5401",
+      "name": "PT5401 (1).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPT5401&size=640&name=PT5401%20%281%29.jpg&cacheSlayer=832895.6185875064",
+      "parent_folder_display_name": "PT5401",
+      "parent_folder_encoded_name": "PT5401"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PT5401",
+      "name": "PT5401 (2).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPT5401&size=640&name=PT5401%20%282%29.jpg&cacheSlayer=844999.0260276377",
+      "parent_folder_display_name": "PT5401",
+      "parent_folder_encoded_name": "PT5401"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PT5401",
+      "name": "PT5401 (3).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPT5401&size=640&name=PT5401%20%283%29.jpg&cacheSlayer=401709.7259621407",
+      "parent_folder_display_name": "PT5401",
+      "parent_folder_encoded_name": "PT5401"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PT5401",
+      "name": "PT5401 (4).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPT5401&size=640&name=PT5401%20%284%29.jpg&cacheSlayer=671020.3984985735",
+      "parent_folder_display_name": "PT5401",
+      "parent_folder_encoded_name": "PT5401"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PT5401",
+      "name": "PT5401 (5).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPT5401&size=640&name=PT5401%20%285%29.jpg&cacheSlayer=872146.6149816768",
+      "parent_folder_display_name": "PT5401",
+      "parent_folder_encoded_name": "PT5401"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PT5401",
+      "name": "PT5401 (6).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPT5401&size=640&name=PT5401%20%286%29.jpg&cacheSlayer=130303.89968728296",
+      "parent_folder_display_name": "PT5401",
+      "parent_folder_encoded_name": "PT5401"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/PT5401",
+      "name": "PT5401 (7).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FPT5401&size=640&name=PT5401%20%287%29.jpg&cacheSlayer=887916.5785918395",
+      "parent_folder_display_name": "PT5401",
+      "parent_folder_encoded_name": "PT5401"
+    },
+    {
+      "type": "folder",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/SBY333",
+      "folder_display_name": "SBY333",
+      "folder_encoded_name": "SBY333"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/SBY333",
+      "name": "SBY333 (1).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FSBY333&size=640&name=SBY333%20%281%29.jpg&cacheSlayer=810462.6002878186",
+      "parent_folder_display_name": "SBY333",
+      "parent_folder_encoded_name": "SBY333"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/SBY333",
+      "name": "SBY333 (2).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FSBY333&size=640&name=SBY333%20%282%29.jpg&cacheSlayer=711525.2735428131",
+      "parent_folder_display_name": "SBY333",
+      "parent_folder_encoded_name": "SBY333"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/SBY333",
+      "name": "SBY333 (3).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FSBY333&size=640&name=SBY333%20%283%29.jpg&cacheSlayer=112965.75037625723",
+      "parent_folder_display_name": "SBY333",
+      "parent_folder_encoded_name": "SBY333"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/SBY333",
+      "name": "SBY333 (4).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FSBY333&size=640&name=SBY333%20%284%29.jpg&cacheSlayer=198878.71674329226",
+      "parent_folder_display_name": "SBY333",
+      "parent_folder_encoded_name": "SBY333"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/SBY333",
+      "name": "SBY333 (5).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FSBY333&size=640&name=SBY333%20%285%29.jpg&cacheSlayer=620076.9770651929",
+      "parent_folder_display_name": "SBY333",
+      "parent_folder_encoded_name": "SBY333"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/SBY333",
+      "name": "SBY333 (6).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FSBY333&size=640&name=SBY333%20%286%29.jpg&cacheSlayer=813848.1956209961",
+      "parent_folder_display_name": "SBY333",
+      "parent_folder_encoded_name": "SBY333"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/SBY333",
+      "name": "SBY333 (7).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FSBY333&size=640&name=SBY333%20%287%29.jpg&cacheSlayer=918637.591324949",
+      "parent_folder_display_name": "SBY333",
+      "parent_folder_encoded_name": "SBY333"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/SBY333",
+      "name": "SBY333 (8).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FSBY333&size=640&name=SBY333%20%288%29.jpg&cacheSlayer=996608.229503449",
+      "parent_folder_display_name": "SBY333",
+      "parent_folder_encoded_name": "SBY333"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/SBY333",
+      "name": "SBY333 (9).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FSBY333&size=640&name=SBY333%20%289%29.jpg&cacheSlayer=246027.96646985802",
+      "parent_folder_display_name": "SBY333",
+      "parent_folder_encoded_name": "SBY333"
+    },
+    {
+      "type": "folder",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/TA2405",
+      "folder_display_name": "TA2405",
+      "folder_encoded_name": "TA2405"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/TA2405",
+      "name": "TA2405 (1).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FTA2405&size=640&name=TA2405%20%281%29.jpg&cacheSlayer=157026.5190248742",
+      "parent_folder_display_name": "TA2405",
+      "parent_folder_encoded_name": "TA2405"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/TA2405",
+      "name": "TA2405 (2).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FTA2405&size=640&name=TA2405%20%282%29.jpg&cacheSlayer=429399.66690842446",
+      "parent_folder_display_name": "TA2405",
+      "parent_folder_encoded_name": "TA2405"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/TA2405",
+      "name": "TA2405 (3).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FTA2405&size=640&name=TA2405%20%283%29.jpg&cacheSlayer=848538.2333859584",
+      "parent_folder_display_name": "TA2405",
+      "parent_folder_encoded_name": "TA2405"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/TA2405",
+      "name": "TA2405 (4).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FTA2405&size=640&name=TA2405%20%284%29.jpg&cacheSlayer=654311.9043713666",
+      "parent_folder_display_name": "TA2405",
+      "parent_folder_encoded_name": "TA2405"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8/TA2405",
+      "name": "TA2405 (5).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%94%D0%B0%D1%82%D1%87%D0%B8%D0%BA%D0%B8%2FTA2405&size=640&name=TA2405%20%285%29.jpg&cacheSlayer=403704.41688016243",
+      "parent_folder_display_name": "TA2405",
+      "parent_folder_encoded_name": "TA2405"
+    },
+    {
+      "type": "folder",
+      "path": "/home/IFM/%D0%A0%D0%BE%D0%B7'%D1%94%D0%BC%D0%B8",
+      "folder_display_name": "Роз'єми",
+      "folder_encoded_name": "%D0%A0%D0%BE%D0%B7%27%D1%94%D0%BC%D0%B8"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%A0%D0%BE%D0%B7'%D1%94%D0%BC%D0%B8",
+      "name": "EVC004 (1).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%A0%D0%BE%D0%B7%27%D1%94%D0%BC%D0%B8&size=640&name=EVC004%20%281%29.jpg&cacheSlayer=787092.5709855104",
+      "parent_folder_display_name": "Роз'єми",
+      "parent_folder_encoded_name": "%D0%A0%D0%BE%D0%B7%27%D1%94%D0%BC%D0%B8"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%A0%D0%BE%D0%B7'%D1%94%D0%BC%D0%B8",
+      "name": "EVC004 (2).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%A0%D0%BE%D0%B7%27%D1%94%D0%BC%D0%B8&size=640&name=EVC004%20%282%29.jpg&cacheSlayer=472953.1813443989",
+      "parent_folder_display_name": "Роз'єми",
+      "parent_folder_encoded_name": "%D0%A0%D0%BE%D0%B7%27%D1%94%D0%BC%D0%B8"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%A0%D0%BE%D0%B7'%D1%94%D0%BC%D0%B8",
+      "name": "EVC004 (3).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%A0%D0%BE%D0%B7%27%D1%94%D0%BC%D0%B8&size=640&name=EVC004%20%283%29.jpg&cacheSlayer=994785.2263139015",
+      "parent_folder_display_name": "Роз'єми",
+      "parent_folder_encoded_name": "%D0%A0%D0%BE%D0%B7%27%D1%94%D0%BC%D0%B8"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%A0%D0%BE%D0%B7'%D1%94%D0%BC%D0%B8",
+      "name": "EVC004 (4).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%A0%D0%BE%D0%B7%27%D1%94%D0%BC%D0%B8&size=640&name=EVC004%20%284%29.jpg&cacheSlayer=799345.4090773062",
+      "parent_folder_display_name": "Роз'єми",
+      "parent_folder_encoded_name": "%D0%A0%D0%BE%D0%B7%27%D1%94%D0%BC%D0%B8"
+    },
+    {
+      "type": "file",
+      "path": "/home/IFM/%D0%A0%D0%BE%D0%B7'%D1%94%D0%BC%D0%B8",
+      "name": "EVC004 (5).jpg",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=fdc7fd30bd344dfc87d0038d0e0ad57b&access_token=2.FT2MK2YYlh9WmePu2W0PBPWIal4YH7lzbn1vv5QX.1757063621&fid=fdc7fd30bd344dfc87d0038d0e0ad57b&path=%2F%D0%A0%D0%BE%D0%B7%27%D1%94%D0%BC%D0%B8&size=640&name=EVC004%20%285%29.jpg&cacheSlayer=798613.1899418236",
+      "parent_folder_display_name": "Роз'єми",
+      "parent_folder_encoded_name": "%D0%A0%D0%BE%D0%B7%27%D1%94%D0%BC%D0%B8"
+    }
+  ]
+}

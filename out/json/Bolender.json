@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "generated_at": "2025-09-04T05:33:54.524849Z",
+    "brand": "Bolender",
+    "root_url": "https://www.myqnapcloud.com/smartshare/76f5f806np2m2676sux5w18d_3e851f61nnm425ou1v47z5byb02fg677",
+    "max_depth": null,
+    "image_extensions": [
+      ".png",
+      ".jpg",
+      ".jpeg"
+    ],
+    "generated_at_local": "2025-09-04T07:33:54"
+  },
+  "tree": {
+    "path": "/home",
+    "folder_display_name": "home",
+    "folder_encoded_name": "home",
+    "files": [],
+    "folders": [
+      {
+        "path": "/home/Bolender",
+        "folder_display_name": "Bolender",
+        "folder_encoded_name": "Bolender",
+        "files": [],
+        "folders": [
+          {
+            "path": "/home/Bolender/SC-1",
+            "folder_display_name": "SC-1",
+            "folder_encoded_name": "SC-1",
+            "files": [
+              {
+                "name": "SC-1.JPG",
+                "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=7d061a48fec746af9e02f8fbd90ee110&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=7d061a48fec746af9e02f8fbd90ee110&path=%2FSC-1&size=640&name=SC-1.JPG&cacheSlayer=111729.11242372441"
+              }
+            ],
+            "folders": []
+          },
+          {
+            "path": "/home/Bolender/SC-2",
+            "folder_display_name": "SC-2",
+            "folder_encoded_name": "SC-2",
+            "files": [
+              {
+                "name": "SC-2.JPG",
+                "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=7d061a48fec746af9e02f8fbd90ee110&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=7d061a48fec746af9e02f8fbd90ee110&path=%2FSC-2&size=640&name=SC-2.JPG&cacheSlayer=246144.96918497552"
+              }
+            ],
+            "folders": []
+          }
+        ]
+      }
+    ]
+  },
+  "flat": [
+    {
+      "type": "folder",
+      "path": "/home",
+      "folder_display_name": "home",
+      "folder_encoded_name": "home"
+    },
+    {
+      "type": "folder",
+      "path": "/home/Bolender",
+      "folder_display_name": "Bolender",
+      "folder_encoded_name": "Bolender"
+    },
+    {
+      "type": "folder",
+      "path": "/home/Bolender/SC-1",
+      "folder_display_name": "SC-1",
+      "folder_encoded_name": "SC-1"
+    },
+    {
+      "type": "file",
+      "path": "/home/Bolender/SC-1",
+      "name": "SC-1.JPG",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=7d061a48fec746af9e02f8fbd90ee110&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=7d061a48fec746af9e02f8fbd90ee110&path=%2FSC-1&size=640&name=SC-1.JPG&cacheSlayer=111729.11242372441",
+      "parent_folder_display_name": "SC-1",
+      "parent_folder_encoded_name": "SC-1"
+    },
+    {
+      "type": "folder",
+      "path": "/home/Bolender/SC-2",
+      "folder_display_name": "SC-2",
+      "folder_encoded_name": "SC-2"
+    },
+    {
+      "type": "file",
+      "path": "/home/Bolender/SC-2",
+      "name": "SC-2.JPG",
+      "preview_src": "https://a11a.myqnapcloud.com/share.cgi?tunnel_agent_id=64c1a238ef1a9220bce5b95f&func=get_thumb&ssid=7d061a48fec746af9e02f8fbd90ee110&access_token=2.jok4yNxFpIff9QTYhwu1ZoazFkv8w2UEd8woRaKZ.1757063622&fid=7d061a48fec746af9e02f8fbd90ee110&path=%2FSC-2&size=640&name=SC-2.JPG&cacheSlayer=246144.96918497552",
+      "parent_folder_display_name": "SC-2",
+      "parent_folder_encoded_name": "SC-2"
+    }
+  ]
+}
